@@ -1,0 +1,76 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "2B679506-5A7C-4AF0-AB94-224A82D53533",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1575,
+    "width": 600,
+    "x": 150,
+    "y": 479
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": true,
+  "isVisible": false,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "slice",
+      "id": "198A4F7F-5B14-405D-A121-ADCF293EA8F8"
+    },
+    {
+      "class": "slice",
+      "id": "0E8C12AC-4080-4766-996C-79C885DE59C4"
+    },
+    {
+      "class": "slice",
+      "id": "EBD9CAD0-3305-4D64-9896-08F69FEB7A1E"
+    },
+    {
+      "class": "slice",
+      "id": "029B3BD2-E778-4D89-832A-DB8E5C560030"
+    },
+    {
+      "class": "slice",
+      "id": "0C665C89-7791-42AD-A71C-5A851852E765"
+    },
+    {
+      "class": "slice",
+      "id": "16199034-E574-4571-A8B3-D3DD097A5432"
+    },
+    {
+      "class": "slice",
+      "id": "C0546DF2-9097-4113-B3D0-09C70167FE12"
+    },
+    {
+      "class": "slice",
+      "id": "8C3B94C0-827B-48C4-B937-C22D93CC9FAD"
+    }
+  ],
+  "name": "SLICES - EMAIL",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

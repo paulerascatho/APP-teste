@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "9EB47714-31A4-422E-B39A-C05545632615",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D5E15881-B514-4D8D-B0F8-F9169EECDB36",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6BCE5EDA-626C-4C95-A335-8FE8FCAA0CBD",
+    "height": 73,
+    "width": 355,
+    "x": 0,
+    "y": 209
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "3599AB77-FCC6-4EB2-8177-E874D7BDECD2"
+    },
+    {
+      "class": "text",
+      "id": "3B25464A-82B7-494F-91F7-8D7CE0C9F5D0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F09BD0DA-2964-4BA4-9289-E1762D36DCE0"
+    }
+  ],
+  "name": "NACIONALIDADE E PORTE",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "851B80CA-3553-4422-A20C-83679C59381D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "F89E6ACF-F310-41B9-9DE1-DAFF4418A731",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "83F7E6E7-A8A8-48BC-9681-ABEE8915F7E6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D71B91AB-73A5-4E68-A096-813B396AF89B",
+    "height": 49,
+    "width": 355,
+    "x": 0,
+    "y": 305
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "ED2BC611-126F-433E-82D3-61AF3742CC79"
+    },
+    {
+      "class": "text",
+      "id": "22850B52-C3A6-4ACB-901C-80F8061FD770"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CC87D919-EC27-463E-B870-6321F39133A3"
+    }
+  ],
+  "name": "RAMO",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "085E9BC7-1728-4CDB-A97D-70FF2831FCB8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

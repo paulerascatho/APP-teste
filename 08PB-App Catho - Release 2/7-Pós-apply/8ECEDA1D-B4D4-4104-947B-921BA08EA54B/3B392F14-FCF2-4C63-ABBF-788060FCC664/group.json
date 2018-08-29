@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "3B392F14-FCF2-4C63-ABBF-788060FCC664",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "25F925F0-13CB-4B38-9921-69088AADA911",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "72181444-70BC-4AA4-855C-395FE3B1D8B6",
+    "height": 367,
+    "width": 362,
+    "x": 0,
+    "y": 550
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "A724E307-BB44-4621-839B-46A6F5989344"
+    },
+    {
+      "class": "group",
+      "id": "B1C3EFED-5BB5-4924-A259-1839327CF803"
+    },
+    {
+      "class": "group",
+      "id": "CB6033F3-42F3-4382-BFBF-BA10798BDFDD"
+    },
+    {
+      "class": "group",
+      "id": "C258609E-AD19-4ABC-9884-1FEE595D85B8"
+    }
+  ],
+  "name": "BENEFICIOS/HORARIO/REGIME",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6AD3F5E0-B7D7-458C-A2BA-0B37F9D224E1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

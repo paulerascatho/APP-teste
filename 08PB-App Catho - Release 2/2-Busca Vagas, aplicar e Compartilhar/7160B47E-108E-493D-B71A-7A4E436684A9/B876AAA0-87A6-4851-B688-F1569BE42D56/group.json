@@ -1,0 +1,60 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "B876AAA0-87A6-4851-B688-F1569BE42D56",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 332,
+    "width": 362,
+    "x": -1,
+    "y": 202
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "9EB74F6B-56E7-4784-B018-19244672BD06"
+    },
+    {
+      "class": "group",
+      "id": "B5F79BF5-1F68-4069-AEBD-BF49FE885791"
+    },
+    {
+      "class": "text",
+      "id": "C0F329F6-83A0-4EBE-8951-4BEBC78CE89C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "183A3A35-8710-44C6-AE0B-52D27C338AE4"
+    }
+  ],
+  "name": "SOBRE A VAGA",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

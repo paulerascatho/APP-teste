@@ -1,0 +1,52 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": -1,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "7AE0CB75-E062-4AAE-9DA1-448F739AEFAD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B8F3A8E6-E669-49F5-AF72-DB2205D38E0A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "007F84A2-C4CA-430A-AA9D-3F69AF3897A8",
+    "height": 87,
+    "width": 225,
+    "x": 496,
+    "y": 1901
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/607069a0b921835110b0815d052fea1c2e8308b6.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "pt-br_badge_web_generic",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C03AB24D-CC10-4660-89EF-ED6723EAD8B3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

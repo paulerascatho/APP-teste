@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "7F65726D-1F43-4F74-9B37-DF02EC597D72",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "333B65CC-7DCF-40C4-ACBC-724BAF630C77",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5B77334A-3DC5-4CB3-A6CA-504D56BA615E",
+    "height": 2055,
+    "width": 900,
+    "x": 0,
+    "y": 236
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "8421C747-3D17-4F78-89CC-DC458B86D5CD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0CACC98D-3EFD-4F40-B279-D9CCFE3790C8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "353A4F91-D3EE-4517-BFD5-9E9E353B5062"
+    }
+  ],
+  "name": "GRID for Box white",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "86B9D5D3-5607-4B97-AA74-F9D464393477",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

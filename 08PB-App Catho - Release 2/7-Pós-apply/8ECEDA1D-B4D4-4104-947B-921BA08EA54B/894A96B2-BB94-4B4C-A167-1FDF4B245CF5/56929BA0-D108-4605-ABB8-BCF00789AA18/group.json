@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "56929BA0-D108-4605-ABB8-BCF00789AA18",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7C50DBC4-4C0D-44A9-845D-9A1B4CA241A0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DEA20EA6-61B5-49A4-8FF9-1EE4DFD1E4A8",
+    "height": 55,
+    "width": 134,
+    "x": 96,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "5E748777-5EC9-45C0-BA06-7DBD18FFD412"
+    }
+  ],
+  "name": "EMPRESA-ICON",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "674A9073-02F8-44B6-BBB5-6936EFCE53B4",
+      "opacity": 0.5
+    },
+    "do_objectID": "E9E5A212-25B5-4696-9916-0A86F9060D30",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

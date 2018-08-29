@@ -1,0 +1,51 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "94379EC4-7292-467F-9FDA-1807FBEF0580",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C0A4A523-A25D-4F5E-A662-2014FE21172C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5F840E13-41C9-4F92-A4B8-D00D864524C7",
+    "height": 70,
+    "width": 111,
+    "x": 395,
+    "y": 175
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "54FC9587-BBF3-4804-85F7-494A292FEFC4"
+    }
+  ],
+  "name": "TOPBAR",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C5D8386F-C119-416C-AFF3-EFEE1CA2A2F8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
