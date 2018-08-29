@@ -1,0 +1,81 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "FC8D6CE4-E798-44BB-BBDF-CA53EFC4F4CE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AAF3A9C5-35F7-46F0-A1B0-DC7A307EC223",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "31063833-E754-474A-AD2F-665273F56F5D",
+    "height": 23,
+    "width": 73,
+    "x": 0,
+    "y": 1
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "04662964-BA3F-49CF-A79A-8291B7147D2A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5ECC183F-DA76-4D91-AB6B-634EFD7032E9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C5CE3B48-9A11-4A73-AC15-B0361D813B4F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DC84F209-7B1B-4C61-ABA3-6038F9A9D80C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DBAA57B5-B0DB-4620-B1FA-D9090BA4E72E"
+    },
+    {
+      "class": "group",
+      "id": "A42362D5-314F-4928-BB60-760253FF8789"
+    }
+  ],
+  "name": "Google logo",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "sharedObjectID": "C5A86088-C0DD-4ABA-B6A3-41989849A55C",
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "445CE124-FC95-441F-9C06-A1E6362EA74A",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 0.8356659200000003,
+      "type": 0
+    },
+    "do_objectID": "3EBA8C95-03FE-4FAF-9967-FB025DDF307B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

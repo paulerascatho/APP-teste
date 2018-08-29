@@ -1,0 +1,63 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "E94B0E37-09D4-412D-ACBB-3DFF7814EB73",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F3385BA6-191B-4522-ABD6-94E3F8EEDE4A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "57BDBD04-92E1-46C2-8B5D-9863808900AA",
+    "height": 13.31661478957715,
+    "width": 8.176543814727513,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "AC4A019C-6A1D-4FF1-B4C3-A47D76DCDD31"
+    }
+  ],
+  "name": "battery mask",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "BC04EE60-1661-4D2B-A1EE-B292FE31132E",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 11.88,
+      "type": 0
+    },
+    "do_objectID": "D0678386-84A1-4593-9AA8-97C5CF84D7F4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "windingRule": 1
+}

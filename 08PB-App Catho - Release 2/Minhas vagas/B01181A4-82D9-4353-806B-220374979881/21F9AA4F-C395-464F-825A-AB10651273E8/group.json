@@ -1,0 +1,55 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "21F9AA4F-C395-464F-825A-AB10651273E8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "44E7F3B4-2D97-4FC7-97B7-0BE14B72D40C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9C64778B-5E87-48ED-8072-C59684E8E06B",
+    "height": 28,
+    "width": 51,
+    "x": 155,
+    "y": 86
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "D00A41E1-86C6-4B46-8F42-88AD36C2A6AC"
+    },
+    {
+      "class": "text",
+      "id": "26140D6F-8E95-4EB6-80DC-1BAA6FD54A4B"
+    }
+  ],
+  "name": "Day",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "948BEE59-C1F9-4094-A649-B42F3BE09A04",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

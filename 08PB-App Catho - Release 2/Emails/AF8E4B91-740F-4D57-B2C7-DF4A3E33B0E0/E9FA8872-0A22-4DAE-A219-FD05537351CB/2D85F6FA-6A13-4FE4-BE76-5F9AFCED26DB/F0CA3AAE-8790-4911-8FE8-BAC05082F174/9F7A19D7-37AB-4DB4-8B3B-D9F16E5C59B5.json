@@ -1,0 +1,90 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": 0,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "9F7A19D7-37AB-4DB4-8B3B-D9F16E5C59B5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0136B7C3-39DD-48BD-B8A7-03AE55325346",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "79A7F5A2-83CC-4D2D-8E04-4AAB82DF31DA",
+    "height": 267.2581932654327,
+    "width": 150.3327337118059,
+    "x": 400.0980274082722,
+    "y": 48.13305614506135
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/789d9f1cb03e3dd083398dd1fc80d9b076d4f669.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 144,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Home Buscar@2x Copy 3",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 0.2,
+          "blue": 0.7450980392156863,
+          "green": 0.466666666666667,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "position": 2,
+        "thickness": 1
+      }
+    ],
+    "do_objectID": "EFEFA1E6-D8EC-49E8-BE6C-453231976F6F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 20,
+        "color": {
+          "_class": "color",
+          "alpha": 0.2008322010869565,
+          "blue": 0.396078431372549,
+          "green": 0.2039215686274508,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": false,
+        "offsetX": 0,
+        "offsetY": 3,
+        "spread": 0
+      }
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

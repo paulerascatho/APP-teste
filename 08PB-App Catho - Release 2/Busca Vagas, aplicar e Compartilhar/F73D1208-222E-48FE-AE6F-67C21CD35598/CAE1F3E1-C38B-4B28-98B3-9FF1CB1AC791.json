@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "CAE1F3E1-C38B-4B28-98B3-9FF1CB1AC791",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "84AA35FD-171D-406A-BE58-21B70D31DC05",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1832D55A-94AE-4B85-BBE1-8B83B2F7AB55",
+    "height": 50,
+    "width": 300,
+    "x": 30,
+    "y": 210
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button/Action/Small/Default",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "91663F2D-48C7-4E4E-8D7B-2ACC0E88C09F",
+      "overrideName": "787D4866-9048-451C-A124-2A2694C99821_stringValue",
+      "value": "Quero enviar agora"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5AB4DB3C-EEE6-4C08-96AE-D202684B6D6B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "845F0719-5150-4223-9D96-CBCA835CBE4F",
+  "verticalSpacing": 0
+}

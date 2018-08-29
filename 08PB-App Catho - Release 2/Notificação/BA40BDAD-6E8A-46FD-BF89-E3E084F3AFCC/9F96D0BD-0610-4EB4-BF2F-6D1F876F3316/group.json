@@ -1,0 +1,90 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "9F96D0BD-0610-4EB4-BF2F-6D1F876F3316",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "276C0905-E7DE-4BD9-A970-C78AC9C54D40",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8B88BDCD-ECDC-4D18-95C4-4073F5E06DCF",
+    "height": 33,
+    "width": 44,
+    "x": 297,
+    "y": 533
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "46BEAAEE-E039-4B7E-A9A3-30E7C484BC91"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0D1557A0-018B-4EC5-8B78-0F17154E8AF5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "54EC41D7-A872-411D-9836-811B23F43ACE"
+    }
+  ],
+  "name": "gmail",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "D6C9B236-ABF9-43FD-A44D-96AED5A35526",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 1.62,
+      "type": 0
+    },
+    "do_objectID": "66F01753-3E7F-4520-AE35-BD24F3803EA2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 4,
+        "color": {
+          "_class": "color",
+          "alpha": 0.5,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 2,
+        "spread": 0
+      }
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

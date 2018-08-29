@@ -1,0 +1,153 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9450980392156862,
+    "do_objectID": "B2926452-C4B7-4847-9418-DF59F114489B",
+    "green": 0.9372549019607843,
+    "red": 0.9254901960784314
+  },
+  "booleanOperation": 0,
+  "do_objectID": "D7105B10-3D07-49D0-B28B-69466F0C8583",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0D08C275-6CB3-42E3-BBA6-86B9B4E7ECD4",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C473B2BC-7986-46D7-BB7E-3F81DFE2595D",
+    "height": 640,
+    "width": 360,
+    "x": 6773,
+    "y": -321
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "CFA6604C-A6C0-4BFC-8093-68F00FEAFE44",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "18A02AC4-8105-4D9B-AA74-8D16504B3F2C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "285A650D-A4DC-4884-AAAE-BA5C11C91E3F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3DBFF8A4-7764-4E4F-BC93-5B15916F337D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EEC2474B-396E-4D09-8EB7-E1308A734ECC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9E65E92E-F1F5-4EA1-9612-FD0D4D571D33"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3B59BD4D-101F-436E-AE5D-8E0FEE8C2DF0"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 70,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 20,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": false,
+    "numberOfColumns": 4,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 360
+  },
+  "name": "Vagas Recomendadas",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 640,
+    "name": "Android",
+    "offersLandscapeVariant": 1,
+    "width": 360
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2972C542-0932-450F-B1FB-AE64515A8192",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "222E53BE-8923-4D36-8F2C-547484DC83E7",
+    "guides": [
+    ]
+  }
+}

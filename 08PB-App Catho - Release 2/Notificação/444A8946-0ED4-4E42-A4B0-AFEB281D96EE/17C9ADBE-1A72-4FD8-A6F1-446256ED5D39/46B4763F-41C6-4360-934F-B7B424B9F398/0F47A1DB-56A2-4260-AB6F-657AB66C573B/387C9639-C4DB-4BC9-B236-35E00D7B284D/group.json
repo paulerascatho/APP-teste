@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "387C9639-C4DB-4BC9-B236-35E00D7B284D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8BE7F749-40E9-4B61-AC8E-9C2DF2FCF56A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3BC91542-6649-42E4-B78C-EF23690D31A6",
+    "height": 18,
+    "width": 18,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "B79F42F0-7132-47D5-80BA-E7CA189213E5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "ABA000F0-AE28-4A36-9519-EFCD2FE04D18"
+    }
+  ],
+  "name": "Blue G",
+  "nameIsFixed": true,
+  "originalObjectID": "C3B1D6CB-17FE-426A-BDFF-CC7462D540D1",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "27CD1AD3-CB54-4450-AA2B-F3CC0EBC21AB",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 0.9927711129600003,
+      "type": 0
+    },
+    "do_objectID": "7593546C-7AE3-4638-8A0D-97BEDEAB8FB1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

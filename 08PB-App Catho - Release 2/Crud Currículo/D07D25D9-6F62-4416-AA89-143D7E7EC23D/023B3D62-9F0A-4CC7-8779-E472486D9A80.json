@@ -1,0 +1,90 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": 0,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "023B3D62-9F0A-4CC7-8779-E472486D9A80",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "101EA0A0-C98E-4A7E-88EB-AA947440AD65",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C43E9BBE-2A39-4748-BEE8-280A78169DA5",
+    "height": 166,
+    "width": 365,
+    "x": 0,
+    "y": -86
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/c813241be33854d025ec462d80ea0e6cec82f540.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Captura de Tela 2018-05-04 às 16.00.25",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": -0.1589949324324325,
+      "contrast": 1,
+      "do_objectID": "41915891-49D5-4157-8E5C-3BA1128B64CF",
+      "hue": 1.831490142855029,
+      "isEnabled": true,
+      "saturation": 1.3046875
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "DE440F3F-9D27-4B4D-8F75-5DFF601F0CA8",
+      "opacity": 0.6326426630434783
+    },
+    "do_objectID": "8A4CA702-2374-4707-A32C-642F7472FA60",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0.4399999976158142,
+          "blue": 0.5647058823529412,
+          "green": 0.2862745098039216,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 2,
+          "opacity": 1
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

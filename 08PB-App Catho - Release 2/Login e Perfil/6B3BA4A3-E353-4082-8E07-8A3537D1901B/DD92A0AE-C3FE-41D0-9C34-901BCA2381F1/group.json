@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "DD92A0AE-C3FE-41D0-9C34-901BCA2381F1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A21CDF71-3588-4331-ABD9-7DAB76795701",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D7368E92-23BD-4D10-BAF7-36B60B700D5E",
+    "height": 35,
+    "width": 320,
+    "x": 143,
+    "y": 83
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "8BA52262-1C64-4C6A-8354-6AAE4801955B"
+    },
+    {
+      "class": "group",
+      "id": "BC8E4863-29D8-4B8C-9B72-9168B712D1F2"
+    }
+  ],
+  "name": "Android Bar Light",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C488413A-61B4-476C-BB21-7B4189D5153D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

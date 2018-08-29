@@ -1,0 +1,74 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "7DAFFFA8-14A5-46FF-87EB-F8A1A117F666",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F792C933-4CC4-424C-A664-DFA68779329C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FE930B2D-8DE1-428F-AF09-58C5F7FE12CB",
+    "height": 64,
+    "width": 344,
+    "x": 8,
+    "y": 85
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Android/Notification/Small",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EDE2A066-1A56-4EBB-AF0F-5E66126D8B3A",
+      "overrideName": "C0E39AEB-D611-4D0E-8668-D101D0F04AF1_symbolID",
+      "value": "71E05C12-685C-491B-8E2D-57E4D13C15B8"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "648F2ABB-45AE-49DB-B451-4D5C987C80FC",
+      "overrideName": "95083B50-CFD6-4D10-BF8D-BE37E35B474A_symbolID",
+      "value": "E6EEB17C-1F5C-4135-B151-9B43801C49EE"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1D1E9554-9296-4492-8EC5-18ECF92A4FD4",
+      "overrideName": "0EC35C5D-E4AC-4271-9B57-353260BD0B0E_stringValue",
+      "value": "Convite para entrevista"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "12AFD9E8-C301-4D36-84BE-FD901F2AA53F",
+      "overrideName": "A1F619D1-C840-4610-B60C-30C66ED9254A_stringValue",
+      "value": "Mensagem da entrevista."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C90884EA-5A80-430A-B42F-606E35A2DA47",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "7355AEB4-5028-41D6-8F64-D85258423964",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "8875C2E6-B4F8-479B-9492-516E4853B620",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "658D9170-91FA-4DA1-8E86-EB7794DB3FD6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "7F305B4D-81F7-4805-9711-BB4A7E27FFC4",
+    "height": 30,
+    "width": 30,
+    "x": 37.5,
+    "y": 30
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "5AD6C046-F011-43E2-811E-209B7482E783"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2DAF2FA1-FBC4-4115-8BDE-C029B92A73AD"
+    }
+  ],
+  "name": "005-twitter-logo-button",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "6A32DF49-0BC1-4BA5-8207-2BA52997F956",
+      "opacity": 0.2668704710144927
+    },
+    "do_objectID": "46001052-DD2C-40F7-A1B1-63ED23309F92",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

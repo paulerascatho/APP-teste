@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "19C75EAA-689B-47DC-9BF2-876F56BD7C97",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "616600DC-FECE-4E41-BC55-3EB39BF31D11",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "545C153D-5D49-46FC-90B4-F0AB3E20CC78",
+    "height": 35,
+    "width": 260,
+    "x": 0,
+    "y": 169
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button/Primary/Normal/Default",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "177DB06A-509D-4030-9596-95CA6E804BE7",
+      "overrideName": "5E17C796-C17F-4E4D-95E1-BD0AF93A6F40_stringValue",
+      "value": "reenviar senha"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "78083113-1898-434D-8AF2-543176A76CFE",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "7CD30E65-9959-4399-97D5-CBAB12C8A380",
+  "verticalSpacing": 0
+}

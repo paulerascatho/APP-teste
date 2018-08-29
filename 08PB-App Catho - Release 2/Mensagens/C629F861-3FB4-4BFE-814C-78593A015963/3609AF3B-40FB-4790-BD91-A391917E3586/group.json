@@ -1,0 +1,91 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "3609AF3B-40FB-4790-BD91-A391917E3586",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8E3ABE0A-DA84-4109-A0B1-F2AC28504653",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7DB51593-B4CD-4B39-B6A8-43FDA02598D6",
+    "height": 116,
+    "width": 325,
+    "x": 2499,
+    "y": 92
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "CA0B125E-EEB4-4D45-A390-16AB79E1592D"
+    },
+    {
+      "class": "text",
+      "id": "97422D58-BDEE-44F0-9CE5-16846B79C3DE"
+    },
+    {
+      "class": "group",
+      "id": "9A67C19A-B87F-41A5-8CD3-92A6BA4F1816"
+    },
+    {
+      "class": "text",
+      "id": "B7BB9BC5-FF37-4808-B3EF-627E6BB1364A"
+    },
+    {
+      "class": "text",
+      "id": "6A667EDB-2360-4D5F-ABC6-2EF982976BA3"
+    },
+    {
+      "class": "text",
+      "id": "A3A427ED-7B18-480E-B66D-4DF726F34A61"
+    },
+    {
+      "class": "group",
+      "id": "F9843F56-6213-4180-B699-9E26B029F790"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DE28FC15-A067-4A40-A48E-83DA8A694D3C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "50F3771A-86C7-40EC-8156-0D64B863D4DA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4B76ACFC-C1D0-4D5C-950B-06122291FD19"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CADCB686-43F1-4FA9-81E7-4DCABF8A7B7B"
+    }
+  ],
+  "name": "Group 3 Copy 10",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "551F6767-9831-4B1A-AF98-A99726071E00",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

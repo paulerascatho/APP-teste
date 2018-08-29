@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "1DA1C0EE-6940-4775-84DB-8A06BBA41F5C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F311DA28-E073-418A-9C3A-ECBE5784DB74",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": 1,
+    "destinationArtboardID": "708D624B-B053-48EA-A0F1-2EE07C7F0D42",
+    "do_objectID": "F4AC662C-0AB3-4BF6-9A00-937A17B3A92D"
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F65AE2C5-308B-4944-B76E-4367F2DB848F",
+    "height": 35,
+    "width": 45,
+    "x": 295,
+    "y": 36.7421875
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button/Action/Small/Default",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BD57552A-7E11-4E7E-BCBF-00CAE2816D20",
+      "overrideName": "D40D7A17-7C6E-4DED-9F96-F01C55F2FDC5_stringValue",
+      "value": "OK"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B5CC37EE-50A7-43BA-BCD4-CBD4D4E56660",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "4CC452A8-D060-4043-BC0F-27D70CC2F8ED",
+  "verticalSpacing": 0
+}

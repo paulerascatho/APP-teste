@@ -1,0 +1,170 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "129B0C12-4908-4FBE-91E5-35DF1CA4A73E",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "do_objectID": "73F1D693-AFF0-41BD-AF37-ACB6D3C2F1F6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E8FDE2BD-3FFE-4BC3-B887-3892851E1092",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DB1EEC11-234E-4F08-8447-44B14F7D3FCF",
+    "height": 640,
+    "width": 360,
+    "x": -3862,
+    "y": 412
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -29,
+    "do_objectID": "5E8E9605-114E-47C6-81A5-FC399A7D08CA",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "B06650AD-5560-461A-98A7-88D577F66D2C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "969286A9-52FE-4AEA-8C79-3782C09B94F6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0DD740A9-2222-40CF-AD07-EB78F5D0C84B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6BA93472-58A7-4EAD-8327-972D538D4BEC"
+    },
+    {
+      "class": "text",
+      "id": "E0EC2FBB-EF9C-4EE3-B4FE-08ACBF1AFD93"
+    },
+    {
+      "class": "text",
+      "id": "27D5CD93-04B5-4E1B-9771-70B53DF7CCCB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F46379B6-DCD7-42AE-8E30-BEC5851E67DB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C3EC649D-1102-4E1C-A368-85D8EFF56A15"
+    },
+    {
+      "class": "text",
+      "id": "B795CDFB-4ABC-49D0-9BE9-E1F6AE37658B"
+    },
+    {
+      "class": "group",
+      "id": "4E8121FF-6664-431D-B25D-EF6389FFEDED"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DF2656AF-E4DD-4947-A9B3-A06C45791A36"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "21D1DBD3-4F3A-4736-B8C8-FBF6EA9DD954"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E5756BC0-FDA0-4138-AAF7-282021EB9C8A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AC1EEABB-58ED-465A-AF60-58937715BB14"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 70,
+    "do_objectID": "A29F987C-8B96-456C-A4EC-0653B4582821",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 20,
+    "guttersOutside": true,
+    "horizontalOffset": 29,
+    "isEnabled": false,
+    "numberOfColumns": 4,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 360
+  },
+  "name": "Home Buscar - ABA BUSCA",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 640,
+    "name": "Android",
+    "offersLandscapeVariant": 1,
+    "width": 360
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5A32F4E2-D5D7-4C05-8A49-1529AB8CDDD1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "D6D4EF6D-617C-4CDE-9288-4AE9DFB116EC",
+    "guides": [
+      -26,
+      439
+    ]
+  }
+}

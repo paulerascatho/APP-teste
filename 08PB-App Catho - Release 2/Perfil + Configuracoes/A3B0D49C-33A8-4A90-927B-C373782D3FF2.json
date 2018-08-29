@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "A3B0D49C-33A8-4A90-927B-C373782D3FF2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "19AE1389-385B-46C0-B412-BE85FFDABA14",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A07EEF50-7972-40D4-8397-534FD08FE987",
+    "height": 35,
+    "width": 70,
+    "x": 663,
+    "y": -480
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button/Primary/Small/Default",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "67C80936-12B4-4236-B9CC-DA25DDCF9442",
+      "overrideName": "5E17C796-C17F-4E4D-95E1-BD0AF93A6F40_stringValue",
+      "value": "Editar"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C32DB2D1-5E84-42A0-A8D9-228F79BE1FC2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "7CD30E65-9959-4399-97D5-CBAB12C8A380",
+  "verticalSpacing": 0
+}

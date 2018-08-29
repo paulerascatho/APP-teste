@@ -1,0 +1,168 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "7A9FCBF7-6B33-4E8B-A47A-EA508DB428BB",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "do_objectID": "224A21FB-DF8E-4EEB-9C04-6DA3291F00F3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "65670253-4BE8-4CD9-BA2A-164B643365DA",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "76A28BF5-3BA5-4857-A665-EBC34A0C9BD5",
+    "height": 640,
+    "width": 360,
+    "x": 3781,
+    "y": -320
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "50EAA87C-5461-4B90-9D75-80D959C89933",
+    "guides": [
+      28
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "04D2688A-C32A-4D32-AFC2-D5CE8CB3E9AA"
+    },
+    {
+      "class": "text",
+      "id": "CD2D695B-0E03-40C0-90B6-BEA92B452A41"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3F52F9F2-38AC-4177-9A7B-876F4122363C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F306B7A9-2238-42F8-87D3-59FB9B853709"
+    },
+    {
+      "class": "group",
+      "id": "75B137FE-65AD-4345-A570-6E6307F448BD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "951E1D6F-AB2F-4F83-94B8-5EDC1CA6E35A"
+    },
+    {
+      "class": "group",
+      "id": "2ABAEABD-937B-4ECE-95FD-76158C6FD7B3"
+    },
+    {
+      "class": "group",
+      "id": "BE992A39-00E1-4019-A9A2-72117A2D83FD"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 70,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 20,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": false,
+    "numberOfColumns": 4,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 360
+  },
+  "name": " - Questionários",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 640,
+    "name": "Android",
+    "offersLandscapeVariant": 1,
+    "width": 360
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CEC357A4-69F3-44DA-A6C8-95B674B58150",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "9B407F06-E21F-4CA3-B744-3EB7465744EA",
+    "guides": [
+    ]
+  }
+}

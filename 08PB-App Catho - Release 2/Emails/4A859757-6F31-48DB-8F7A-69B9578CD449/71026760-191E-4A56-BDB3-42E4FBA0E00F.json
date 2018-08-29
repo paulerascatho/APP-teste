@@ -1,0 +1,52 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": 0,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "71026760-191E-4A56-BDB3-42E4FBA0E00F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "44A57428-D404-4756-9E47-C722EB426C11",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "B9168983-3ADA-45C2-9323-0E360CB675FE",
+    "height": 70,
+    "width": 111,
+    "x": 395,
+    "y": 134
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/bed0c5a599479c2b057840970a5e1884fff49c78.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Logo-catho",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A223CC57-1AC9-444E-A8BD-A280AEBD7B2D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

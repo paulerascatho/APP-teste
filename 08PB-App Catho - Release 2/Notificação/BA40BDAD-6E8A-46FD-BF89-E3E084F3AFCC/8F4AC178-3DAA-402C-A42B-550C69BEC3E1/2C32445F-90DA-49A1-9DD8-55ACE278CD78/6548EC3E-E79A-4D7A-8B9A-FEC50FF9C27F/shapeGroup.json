@@ -1,0 +1,63 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "6548EC3E-E79A-4D7A-8B9A-FEC50FF9C27F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A590D5F7-7E3F-4B17-BCB4-349A2A06F689",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1F78ACAA-10B9-4AB5-8BFA-E302470280BE",
+    "height": 11.8875,
+    "width": 11.86703601108036,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "2351608A-A176-44C9-9660-7B6DEF7D15C6"
+    }
+  ],
+  "name": "reception mask",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "9B2C4764-8B35-4910-8D55-B68E8B570098",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 9.9,
+      "type": 0
+    },
+    "do_objectID": "9BCED89A-9535-4E26-95A8-DDF363772AD5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "windingRule": 1
+}

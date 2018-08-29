@@ -1,0 +1,182 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9450980392156862,
+    "do_objectID": "17B96B12-F00F-45C0-A6EC-A449DE31C00F",
+    "green": 0.9372549019607843,
+    "red": 0.9254901960784314
+  },
+  "booleanOperation": 0,
+  "do_objectID": "6F04E644-45D7-4459-A428-7795107337F0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D42A6CD9-156D-4DF2-BE9B-1405327B8BF9",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C88E10BD-4CA1-45BE-8390-1379593A3D3B",
+    "height": 640,
+    "width": 360,
+    "x": 264,
+    "y": -307
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "C533E0F0-28EC-429D-A49C-FC75905D5BEB",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "C876C4CE-6D76-4B6E-BCFA-EE5779F989A2",
+    "guides": [
+      13,
+      338,
+      350,
+      25,
+      32.54296875
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "01C2927E-1B04-496D-8C3F-0F1B880E3DF4"
+    },
+    {
+      "class": "group",
+      "id": "987824A6-70CC-4DD4-A98C-54744F528FA4"
+    },
+    {
+      "class": "group",
+      "id": "5726D61C-CF3C-4721-84D2-4CDF3A947660"
+    },
+    {
+      "class": "group",
+      "id": "8CA3A2CD-4BA4-4AB3-892D-A3CA354A073C"
+    },
+    {
+      "class": "group",
+      "id": "A144CA10-ED59-474C-8152-C8CA65AF748D"
+    },
+    {
+      "class": "group",
+      "id": "DE902BBC-ABAD-4120-AD15-44FAB53B8919"
+    },
+    {
+      "class": "group",
+      "id": "E4B3D705-822E-4B9F-98FA-AB4C4E1B44CA"
+    },
+    {
+      "class": "group",
+      "id": "C6CFEEA7-02C9-4176-90E7-56B2D250FB5A"
+    },
+    {
+      "class": "group",
+      "id": "E631D405-236E-4491-813F-E1F57FA3FDF0"
+    },
+    {
+      "class": "group",
+      "id": "96476629-D3B6-4DBC-BC36-BB7D453B89F1"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 74,
+    "do_objectID": "B41BB4C9-80BC-4A3C-9494-BC9614DE97D3",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 16,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": false,
+    "numberOfColumns": 4,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 360
+  },
+  "name": "Mensagens recrutador + scroll up",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 640,
+    "name": "Android",
+    "offersLandscapeVariant": 1,
+    "width": 360
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "05D8FF99-AAC0-492A-944F-32E6619DE59C",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "0B069541-7900-43D2-A2ED-E8A73321A02F",
+    "guides": [
+    ]
+  }
+}

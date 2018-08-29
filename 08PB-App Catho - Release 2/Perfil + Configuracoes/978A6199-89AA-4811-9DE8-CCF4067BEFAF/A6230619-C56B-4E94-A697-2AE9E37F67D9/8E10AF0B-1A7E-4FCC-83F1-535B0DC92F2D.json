@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "8E10AF0B-1A7E-4FCC-83F1-535B0DC92F2D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "36C195BE-10D5-4148-9A91-3BF12F1B4330",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6428C0AC-1582-485A-BEE3-C66CB6D8AAE5",
+    "height": 35,
+    "width": 70,
+    "x": 277,
+    "y": 10
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button/Primary/Small/Default",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DAEF3493-6BAC-4F0A-A63F-E17DC93BF6BE",
+      "overrideName": "5E17C796-C17F-4E4D-95E1-BD0AF93A6F40_stringValue",
+      "value": "Trocar"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8755A078-CF9E-4944-A790-BE19251DDC40",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "7CD30E65-9959-4399-97D5-CBAB12C8A380",
+  "verticalSpacing": 0
+}

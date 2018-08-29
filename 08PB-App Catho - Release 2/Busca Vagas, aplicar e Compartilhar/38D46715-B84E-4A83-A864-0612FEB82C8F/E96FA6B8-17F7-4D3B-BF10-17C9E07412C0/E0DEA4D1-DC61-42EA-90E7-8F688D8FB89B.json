@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "E0DEA4D1-DC61-42EA-90E7-8F688D8FB89B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DA7DF966-D04E-43DE-B7A1-3A808C5CD48F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "AF7BFFBB-914A-4799-970B-12B12958DBCD",
+    "height": 16,
+    "width": 16,
+    "x": 52.2599983215332,
+    "y": 59.955078125
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Icons/Maps/place",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "52E5D7EE-C144-4343-B945-D307C612DDB2",
+      "overrideName": "6598CC69-CB02-433F-BB08-3146ECB39BC5_symbolID",
+      "value": "2749FB63-65B9-4DA1-96AD-26DB715488D6"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "ECD7BEC4-2D95-4D5C-A0AF-9DD0FCE4528F",
+      "opacity": 0.5
+    },
+    "do_objectID": "4B491582-FE9C-4805-BD05-B1E997E13CB0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "7E20111D-9DAD-4498-AFFF-3D097024AF9A",
+  "verticalSpacing": 0
+}

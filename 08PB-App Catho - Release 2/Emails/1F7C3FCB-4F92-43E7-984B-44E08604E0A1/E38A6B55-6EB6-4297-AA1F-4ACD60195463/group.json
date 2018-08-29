@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "E38A6B55-6EB6-4297-AA1F-4ACD60195463",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7E781FD9-61F0-4A95-A744-2D72EA9990BE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "325255C2-E7AA-46B3-9980-43AB621CDC3F",
+    "height": 60,
+    "width": 213,
+    "x": 407,
+    "y": 624
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "27DE315B-EC62-43E3-BF46-1350BA9348FB"
+    },
+    {
+      "class": "group",
+      "id": "EB02FB2E-75C3-401E-8994-9949A113D509"
+    },
+    {
+      "class": "group",
+      "id": "2ED26244-2BFA-4F8E-9844-F008FE6B3FDD"
+    },
+    {
+      "class": "group",
+      "id": "C3C118B7-EC07-4AE3-8CDC-9DA20E9CA90A"
+    },
+    {
+      "class": "group",
+      "id": "EDD7E5FD-A25B-4117-BEDD-9284BAA9B597"
+    }
+  ],
+  "name": "Redes sociais",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BA2E0038-18C6-48D0-A520-1731C9875770",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

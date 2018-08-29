@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "CC60506C-5621-4959-B8D0-BF9DDD42183B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "66CCE6F1-86DA-4A78-925A-CDDD0C04546E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9141AA2B-D623-4018-A3D1-328CD82B69E5",
+    "height": 35,
+    "width": 73,
+    "x": 160,
+    "y": 126
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button/Ghost/Small/Default",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CC33F49F-3749-46DA-9FD5-B48C6484E1C2",
+      "overrideName": "D40D7A17-7C6E-4DED-9F96-F01C55F2FDC5_stringValue",
+      "value": "Recusar"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "99BC346E-2D2C-451D-9381-0A840922DB98",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "4CC452A8-D060-4043-BC0F-27D70CC2F8ED",
+  "verticalSpacing": 0
+}

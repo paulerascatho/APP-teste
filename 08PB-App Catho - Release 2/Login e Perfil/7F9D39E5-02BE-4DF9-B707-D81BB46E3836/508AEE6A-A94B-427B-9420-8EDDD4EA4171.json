@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "508AEE6A-A94B-427B-9420-8EDDD4EA4171",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4379EF29-3AEC-4CE5-BBFF-97943D20B7CD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C8EEF9AD-4D85-41D2-B255-4F617DD94740",
+    "height": 50,
+    "width": 260,
+    "x": 50,
+    "y": 476.3046875
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button/Primary/Normal/Default",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3BFE5D62-F9A0-4193-BE8E-F6066979C4E7",
+      "overrideName": "787D4866-9048-451C-A124-2A2694C99821_stringValue",
+      "value": "ATIVAR MINHA CONTA"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "90349CDD-DCFF-43F7-9B22-8862B47FD1A9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "845F0719-5150-4223-9D96-CBCA835CBE4F",
+  "verticalSpacing": 0
+}

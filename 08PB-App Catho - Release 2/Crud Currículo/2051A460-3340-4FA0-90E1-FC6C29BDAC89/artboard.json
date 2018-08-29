@@ -1,0 +1,137 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9450980392156862,
+    "do_objectID": "20BB4BE7-9161-46B9-975D-80BA6E11AD6D",
+    "green": 0.9372549019607843,
+    "red": 0.9254901960784314
+  },
+  "booleanOperation": 0,
+  "do_objectID": "2051A460-3340-4FA0-90E1-FC6C29BDAC89",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F66AD18A-8B4B-4566-A88E-A78219C3BC02",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2554F321-2728-4593-96AA-91DC0AE9001D",
+    "height": 640,
+    "width": 360,
+    "x": -3119,
+    "y": -250
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "995585EC-590A-4D04-8792-8E433D1BABCB",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E84F1F11-56C3-4143-A9DD-23D5F8C6BFA5"
+    },
+    {
+      "class": "group",
+      "id": "45C932AC-ED26-4537-A741-CF58B54B3AA7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7803FA20-0C36-478F-A95E-4F9E7185D220"
+    },
+    {
+      "class": "text",
+      "id": "67DC7AF5-4527-4B9F-A5F8-FD7981A75EE7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "77D66FC4-18EA-47C3-8675-6067665B5862"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D82AABC4-66AD-4982-8A07-3E2B0617630D"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 70,
+    "do_objectID": "E06A1F41-3D8F-4739-B386-44C3486C3FED",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 20,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": false,
+    "numberOfColumns": 4,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 360
+  },
+  "name": " Crud - Pesquise por palavra chave ou cargo",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 640,
+    "name": "Android",
+    "offersLandscapeVariant": 1,
+    "width": 360
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1AF70FD8-F383-4423-8A01-55365CA4A994",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "38DC0DA2-4A5D-40F6-A826-675AE274013C",
+    "guides": [
+      -26
+    ]
+  }
+}

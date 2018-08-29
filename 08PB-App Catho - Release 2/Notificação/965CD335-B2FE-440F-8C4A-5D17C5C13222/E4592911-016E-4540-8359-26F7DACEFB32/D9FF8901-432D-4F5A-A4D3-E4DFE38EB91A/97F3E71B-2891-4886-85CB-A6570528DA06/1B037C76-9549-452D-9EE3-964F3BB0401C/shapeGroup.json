@@ -1,0 +1,102 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "1B037C76-9549-452D-9EE3-964F3BB0401C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3C096428-D1B2-4230-A7FD-8C8E5C4C5743",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9E4C9FE4-7AFF-4CBB-AF96-DE2602DC8721",
+    "height": 11.28839192162614,
+    "width": 11.88849121431765,
+    "x": 18.80401878343082,
+    "y": 6.197548505991108
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "2E0BB44A-B7F6-4D45-BA69-24BCBC5394A3"
+    },
+    {
+      "class": "oval",
+      "id": "76003DF2-E9D4-42A0-82C1-B57C6FB88D00"
+    }
+  ],
+  "name": "Red O",
+  "nameIsFixed": true,
+  "originalObjectID": "BFE0EE92-BD6C-4070-B571-9D15B4BFCDB8",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "AE70ADD7-7957-4BFC-975E-FCD5024041FE",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 0.9927711129600003,
+      "type": 0
+    },
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "position": 0,
+        "thickness": 0.6059394000000001
+      }
+    ],
+    "do_objectID": "C0CF42E2-A9B0-4E9E-8F4C-D20AA1123323",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.1921568627450981,
+          "green": 0.2549019607843138,
+          "red": 0.9372549019607843
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "windingRule": 1
+}

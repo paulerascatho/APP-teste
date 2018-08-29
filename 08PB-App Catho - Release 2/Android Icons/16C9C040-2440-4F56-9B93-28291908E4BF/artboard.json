@@ -1,0 +1,95 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "340174DB-E4A6-4A89-B9FB-AF2C6A8F88D3",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "do_objectID": "16C9C040-2440-4F56-9B93-28291908E4BF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7887FCF6-F928-40C3-9C9B-3D7181A21B4E",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@1x",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F438E49B-15DE-45C6-A9BE-91B14DCBEF99",
+    "height": 512,
+    "width": 512,
+    "x": 529,
+    "y": 513
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "D55EF364-22A1-4FFB-A994-94786EC419ED",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "7B943F53-F8C1-4772-A12B-40B3395E72C5"
+    },
+    {
+      "class": "group",
+      "id": "37FDCF6F-C91C-4CF1-8A83-29585939D8AF"
+    },
+    {
+      "class": "text",
+      "id": "5F6EC76B-3E10-46FC-B274-3210212D9B53"
+    }
+  ],
+  "name": "Ícone PlayStore",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "877BEE8B-BECC-496F-8F6D-30F218428392",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "CB47FCCB-3540-4628-9D91-1BFDA8C222CE",
+    "guides": [
+    ]
+  }
+}

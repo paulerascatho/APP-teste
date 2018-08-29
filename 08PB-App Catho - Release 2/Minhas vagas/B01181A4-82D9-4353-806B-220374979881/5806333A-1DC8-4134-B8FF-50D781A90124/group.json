@@ -1,0 +1,55 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "5806333A-1DC8-4134-B8FF-50D781A90124",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D389066B-A1E9-4692-BCB5-D814E81BE946",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5C95F614-8C72-4BFC-A1DC-C12171C17C17",
+    "height": 97,
+    "width": 345,
+    "x": 7,
+    "y": 535
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "F92212BB-B960-4FE8-A1EF-A34BE646B0E5"
+    },
+    {
+      "class": "group",
+      "id": "CAAA40CE-DC60-4A0E-A301-C3FCC7F27DE5"
+    }
+  ],
+  "name": "Input box & go button",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DF77A0B1-D785-4366-B28B-D5EDAF8F63F7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

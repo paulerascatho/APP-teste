@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "BB66E89B-3FFC-4035-9AD1-1465780A188E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CC4E8331-9D7D-4913-90E6-4E5736861E01",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "28EB0B74-5CF7-4D1C-9E71-2FCC0EA5556B",
+    "height": 31,
+    "width": 30,
+    "x": 150,
+    "y": 30
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "9A413B86-0C78-453D-BEEA-0A39DAE72980"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F067C71B-2055-4A27-93E5-96F73509D0F6"
+    }
+  ],
+  "name": "002-youtube-symbol",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "A990D89C-D904-4A71-8C36-DD201A3B8BC3",
+      "opacity": 0.2668704710144927
+    },
+    "do_objectID": "F02746B0-FF7F-40F7-8923-E8E23FB8884A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

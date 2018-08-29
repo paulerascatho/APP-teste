@@ -1,0 +1,177 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "86E3C277-7981-4706-8C23-0C60FCB3B306",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "do_objectID": "0D65720C-90AD-4B2F-9CB1-A4F1D6CA728C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F5F1080F-9B67-4266-984B-C728311C864C",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BE8C5B88-2516-460E-9E3C-9130BA40E251",
+    "height": 640,
+    "width": 360,
+    "x": 1487,
+    "y": -307
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "8053F8E5-B781-432B-A74B-FE4D4ABE6498",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "95F2852F-C815-4AFF-9C4E-36D688F070A1",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "BAF927AD-25F1-4C81-806A-CB1156FEF90C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CD55AAA2-3E9E-458C-8CCA-BD8FC84EF38F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9AA32ABD-B684-4014-BA5E-AA16F7E2C57D"
+    },
+    {
+      "class": "text",
+      "id": "431CCACF-38A2-47C2-A466-640A0064B90D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "82F84AF0-D48C-4914-8CC4-E04DB1A3C669"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "597D06F8-B248-423A-8E73-C8838F9F3F6B"
+    },
+    {
+      "class": "group",
+      "id": "C15ED9DE-E964-4D67-90CD-C7A2D6A3D8EA"
+    },
+    {
+      "class": "group",
+      "id": "0845BF1A-7EED-42AA-B5C5-8235516F58ED"
+    },
+    {
+      "class": "text",
+      "id": "60BE944B-BCC1-4262-9F68-785764DA5400"
+    },
+    {
+      "class": "text",
+      "id": "0A50CED2-6BBC-4C02-A791-AE0D2047DCD5"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 70,
+    "do_objectID": "F88E1720-03F2-4F48-80AC-6E9E7FE21455",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 20,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": false,
+    "numberOfColumns": 4,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 360
+  },
+  "name": "Sugestão - Avaliar PlayStore",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 640,
+    "name": "Android",
+    "offersLandscapeVariant": 1,
+    "width": 360
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "02B3CA39-D95D-4FF6-9B62-84CB6013F72C",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "C6073A51-4557-4B7A-911C-738801491407",
+    "guides": [
+    ]
+  }
+}

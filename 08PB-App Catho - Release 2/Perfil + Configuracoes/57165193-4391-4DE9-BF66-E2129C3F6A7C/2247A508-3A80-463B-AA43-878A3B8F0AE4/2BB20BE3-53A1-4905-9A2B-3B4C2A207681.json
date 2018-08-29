@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "2BB20BE3-53A1-4905-9A2B-3B4C2A207681",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "20AE7AE8-7E06-418F-BEDB-B02E6056CEA3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6358263B-B80A-4F4E-ABFB-D65C3F1C73C5",
+    "height": 35,
+    "width": 276,
+    "x": 22,
+    "y": 173.91796875
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button/Primary/Small/Default",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FF600DE7-6553-47F4-858A-45BC26AE3136",
+      "overrideName": "D40D7A17-7C6E-4DED-9F96-F01C55F2FDC5_stringValue",
+      "value": "adicionar outro currículo"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E09CB636-188B-4AAA-AEF3-8AA9A3086AEE",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "4CC452A8-D060-4043-BC0F-27D70CC2F8ED",
+  "verticalSpacing": 0
+}

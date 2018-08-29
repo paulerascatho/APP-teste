@@ -1,0 +1,55 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "E4592911-016E-4540-8359-26F7DACEFB32",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F743CD7B-FD00-4376-965E-553DB8B9B387",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A7CEB341-005E-4782-8359-4C44A6E9715E",
+    "height": 48,
+    "width": 344,
+    "x": 8,
+    "y": 32
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "A1FD95E0-FD88-4FB7-A842-B691AA2118C1"
+    },
+    {
+      "class": "group",
+      "id": "D9FF8901-432D-4F5A-A4D3-E4DFE38EB91A"
+    }
+  ],
+  "name": "searchbar",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "54FF302D-FDA3-40E2-B442-BEB77BCE6427",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

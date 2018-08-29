@@ -1,0 +1,80 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "F9266323-3AE0-47CA-9830-3C75F0F0807A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "48811E8E-21AA-476C-A216-787E9BDFB0A8",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "25E41DC7-11D1-40A8-9CE7-D93D699DA0E7",
+    "height": 73,
+    "width": 73,
+    "x": 24,
+    "y": 413
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "🔘 Icon",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "44CC7DB2-9DB5-4A36-954C-1EDD60CE4BBB",
+      "overrideName": "875E062D-A6F2-4A0C-A2CD-637A11C9282C_symbolID",
+      "value": "2749FB63-65B9-4DA1-96AD-26DB715488D6"
+    }
+  ],
+  "resizingConstraint": 37,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "73938D69-E18D-4488-87CB-7896F7B31F60",
+      "opacity": 0.07000000000000003
+    },
+    "do_objectID": "0CF7BAC0-DD7F-4310-93F6-72B1876513BB",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D3C8E7B2-8105-4016-A45D-05B89E7D93A2",
+  "verticalSpacing": 0
+}

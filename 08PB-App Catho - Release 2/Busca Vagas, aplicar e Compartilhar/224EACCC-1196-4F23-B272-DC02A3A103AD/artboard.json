@@ -1,0 +1,151 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "9A956D1D-1ED7-4E6E-BD32-870500161041",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "do_objectID": "224EACCC-1196-4F23-B272-DC02A3A103AD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1590FB27-B7BA-4D77-8837-8C0D121B21FF",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6AD7DF27-9758-4108-B1BF-F416F236B511",
+    "height": 640,
+    "width": 360,
+    "x": -1439,
+    "y": -323
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -29,
+    "do_objectID": "8DF7E412-C3C9-4B65-9091-85DBBFBAE3F0",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "948CF474-E675-4CF3-970E-38067B23CEE0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D41BD651-433E-4FAC-A8BF-1BB1BD068A27"
+    },
+    {
+      "class": "group",
+      "id": "AD1A504B-F693-4545-8221-C31EA815B4C8"
+    },
+    {
+      "class": "text",
+      "id": "E71EE2C2-21C0-45C3-A9C7-CC2ACBCCF368"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8BD89975-74A1-4CFA-847A-8B5636F27263"
+    },
+    {
+      "class": "group",
+      "id": "A194928A-0249-4BD3-B113-A9B094BD3DFE"
+    },
+    {
+      "class": "group",
+      "id": "2F361513-1D96-40BA-8623-1C3C9A4BA067"
+    },
+    {
+      "class": "text",
+      "id": "EA79109E-FD34-4DEE-81E3-D793A56FB6FB"
+    },
+    {
+      "class": "group",
+      "id": "4989D3F5-07C3-432D-9128-07C6E774D8EE"
+    },
+    {
+      "class": "group",
+      "id": "6F496E1D-A082-4A87-8E25-33073D5A6CE8"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 70,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 20,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": false,
+    "numberOfColumns": 4,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 360
+  },
+  "name": "Home Buscar 1 Cidade",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 640,
+    "name": "Android",
+    "offersLandscapeVariant": 1,
+    "width": 360
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6D6D9DBD-B0E0-433F-BD63-F8FA1671635A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "7B89D411-A797-49DC-8CFE-8C489615F2DD",
+    "guides": [
+    ]
+  }
+}

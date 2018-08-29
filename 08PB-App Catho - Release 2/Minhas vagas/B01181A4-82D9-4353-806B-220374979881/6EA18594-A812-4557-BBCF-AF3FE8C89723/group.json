@@ -1,0 +1,68 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "6EA18594-A812-4557-BBCF-AF3FE8C89723",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "64268B1C-94F8-4605-B2D2-DC22FE225AD8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8C5CEDEE-4E4C-40D6-AB9C-14B9A82C8331",
+    "height": 46,
+    "width": 297,
+    "x": 7,
+    "y": 123
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "7BB7D7B9-007A-4932-8D71-50F6A687F503"
+    },
+    {
+      "class": "text",
+      "id": "87CA0E5A-9EDB-4480-AEAB-DCD35B54C452"
+    },
+    {
+      "class": "text",
+      "id": "5726926F-5BDD-4790-9F37-27C919F756B9"
+    }
+  ],
+  "name": "Incoming message 01",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "82864FBE-88E0-4760-88ED-8E02B2B864C6",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 3.34649555774926,
+      "type": 0
+    },
+    "do_objectID": "99EE11C9-E213-4FF3-8699-28ADDE551F8A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

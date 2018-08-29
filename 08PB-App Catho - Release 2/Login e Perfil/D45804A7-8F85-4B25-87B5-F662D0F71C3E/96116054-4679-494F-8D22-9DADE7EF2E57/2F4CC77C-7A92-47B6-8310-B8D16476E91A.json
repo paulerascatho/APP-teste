@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "2F4CC77C-7A92-47B6-8310-B8D16476E91A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C34B9178-FB98-4D92-93CC-B41966CA6033",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EE58A0B2-F955-4E2F-A6D2-9DE2CC9F33D6",
+    "height": 60,
+    "width": 260,
+    "x": 0,
+    "y": 151
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Forms/Text/Default Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E0F96BE6-78D8-44F9-A6DC-A76CCF68CFAB",
+      "overrideName": "79695C46-E76F-4C96-8CEF-184C2C1A8104_stringValue",
+      "value": "Usuário ou senha incorretos."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "192A1F2F-81E6-41F0-984E-937F4199E4A1",
+      "overrideName": "E2DBB47D-F357-41DA-A058-5F72A3BB1E03_stringValue",
+      "value": "TEstedesenha123"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "07424D91-7A29-43EF-BA9F-8DA4AC6B64C7",
+      "overrideName": "BE7C09C7-2188-4EE8-8A2F-85C654667004_stringValue",
+      "value": "Qual é a sua senha?"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D0E8856E-A867-48EA-9D39-530CB30F98F8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "BAAB33A8-3937-44C9-ABAC-EDD8A04C237F",
+  "verticalSpacing": 0
+}

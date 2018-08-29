@@ -1,0 +1,181 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "92EBDA64-FC1D-40AC-8BEE-BCFA03E09539",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "do_objectID": "2C33371E-0964-416D-BA39-D9CC6468095A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "239ECF2A-60E2-408C-9C38-BDB89A15B39E",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "986A7B69-CE02-4EE8-AC10-46980F6D3941",
+    "height": 640,
+    "width": 360,
+    "x": -1072,
+    "y": -251
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "7B7CFFBB-56C0-404B-BFA6-C583413DF902",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "313C6AEE-3A2B-4D37-AD40-C8ECB07E0711",
+    "guides": [
+      18
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "6ADA14A3-9A8A-4F54-90AD-6702166FFB67"
+    },
+    {
+      "class": "group",
+      "id": "E99B6A36-DC0B-4063-AF3A-8DA35BAE550E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4902DEBF-E51B-4DDC-96E3-51A3DA2EB5BD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "96EACE8C-837D-4EB6-9FF2-EEA66FE2E9C9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DE48A9F1-C302-4C7C-BC5D-C3AE2E6F41EE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DDE676AB-5FAC-4D2E-A0A2-D054076DDFE9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DB813919-B55D-41E8-BE3B-B977FE2547AA"
+    },
+    {
+      "class": "text",
+      "id": "02375C85-B74E-40E7-B406-DF64F480234E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C5D91869-4EE4-47F0-A3B7-6BD9E81F4F8F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F461D6AC-33D3-466E-AAAB-5CA8CED09F39"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D6D37CDE-689B-49CC-8889-77E3FBE43432"
+    },
+    {
+      "class": "group",
+      "id": "E8E2AE91-048F-4AD3-922D-8A0E5D397A32"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 74,
+    "do_objectID": "2FF912D8-37F3-4EC3-A51C-4CD90E20E216",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 16,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": false,
+    "numberOfColumns": 4,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 360
+  },
+  "name": "Formação - Adicionar (Com data saída)",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 568,
+    "name": "iPhone SE",
+    "offersLandscapeVariant": 1,
+    "width": 320
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "72C01AFD-D2F6-4E67-AA9D-03BC4EF852A8",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "D4EBAE90-FCA8-4C62-83F9-E94412F8FBE4",
+    "guides": [
+      152
+    ]
+  }
+}

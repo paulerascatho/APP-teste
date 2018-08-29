@@ -1,0 +1,70 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": 0,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "BCAA7670-5649-4143-AD5C-EFF1EC31D8E4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "07E4FD0D-7B36-471F-8DA5-C07782E8C4D8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "34FEFB38-CF0A-49A9-8623-BE77F1A7C36B",
+    "height": 256.5850084079104,
+    "width": 599.8508040643064,
+    "x": 0.008570935693569481,
+    "y": 0.29296875
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/70755d87014ca0d97cf211bbb1f34827a730528d.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 144,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "shutterstock_715081060",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C9BFE504-E33D-4368-BF83-9CA379754531",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0.55,
+          "blue": 0.05098039215686273,
+          "green": 0.05098039215686273,
+          "red": 0.05098039215686273
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

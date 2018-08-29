@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "EDD7E5FD-A25B-4117-BEDD-9284BAA9B597",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BF501192-9FEB-4847-8AF0-6C74432E5E08",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "D9EA3AE4-12E6-4C74-98DA-4866FADDA3B4",
+    "height": 30,
+    "width": 29,
+    "x": 142,
+    "y": 30
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "53C92B87-CBC3-491E-8F96-495712A40B67"
+    },
+    {
+      "class": "group",
+      "id": "E69E8A2A-8DA9-4F85-A73E-706F6DB73BDE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "474420F3-800E-4259-A236-5505A0866D10"
+    }
+  ],
+  "name": "instagram-logo",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "BCCFA8BB-3B9E-4311-B7C6-009D18103EF3",
+      "opacity": 0.2668704710144927
+    },
+    "do_objectID": "A06A558D-4356-4741-8246-5A45A7EF9CD8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "42ED0604-1C49-45F2-8214-ABA8B3730D4D",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "do_objectID": "7E081197-7A5A-48D7-979C-8BD72173EAE6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CE3E63E6-8451-4304-9FDC-E691598854CE",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "244406C9-3315-4F9C-BDF4-4DD9C32F5735",
+    "height": 640,
+    "width": 360,
+    "x": 6371,
+    "y": -321
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "016A231B-C10F-49F9-99A4-919B0E3D7E47",
+    "guides": [
+      20,
+      340,
+      49.46153846153857
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "2625804B-B7B2-4AE7-9F3A-27C2BE312688"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "52FC1983-F93A-4A84-988D-4DA090299837"
+    },
+    {
+      "class": "bitmap",
+      "id": "E1EF7DBD-C492-4F83-B046-27D82350A08E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E3FD0DCE-BE10-4046-BBC3-1260FE1C1C27"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7824BAB6-94A2-4B5D-B288-00F3AD9F9289"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D6DBF4AA-CEBF-4264-87C4-6582ED1E2D7E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1FA600D2-5C19-435D-A86B-DCABC9D0A8F1"
+    },
+    {
+      "class": "group",
+      "id": "AA0B2371-E503-4674-9F13-38B3E178A91E"
+    },
+    {
+      "class": "group",
+      "id": "A07A4A49-D669-4BBE-A47D-6E0285730AEE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "359982E9-B8F2-498F-8590-31AB18D157D9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "97F0F09F-5308-44B8-A7C8-E653B23FC704"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 70,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 20,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": false,
+    "numberOfColumns": 4,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 360
+  },
+  "name": "Detalhes Vaga - CV enviado",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 640,
+    "name": "Android",
+    "offersLandscapeVariant": 1,
+    "width": 360
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D42DD4A1-9E49-4D8C-A051-4EC80F320FA0",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "13C7A0B8-2349-482E-99BA-E81783015662",
+    "guides": [
+      51
+    ]
+  }
+}

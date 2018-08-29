@@ -1,0 +1,170 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9450980392156862,
+    "do_objectID": "5D2DFB8A-3482-4380-8517-4C3EF5453DBB",
+    "green": 0.9372549019607843,
+    "red": 0.9254901960784314
+  },
+  "booleanOperation": 0,
+  "do_objectID": "A9530EA5-2870-41DE-A236-64D7656C934B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E0EF71AA-85E5-491A-B5E3-8BC1727E703E",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D25E3E30-E70A-479C-9A5E-45D597550350",
+    "height": 640,
+    "width": 360,
+    "x": 801,
+    "y": -554
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "841D1A17-31BB-4A38-9E70-53AE4262179C",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "91911CEE-4BD5-4EDD-970E-2AE334183EAE"
+    },
+    {
+      "class": "text",
+      "id": "590ED111-2CC5-4F5B-82DF-F5EA6F4804DE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9EECBFC7-2225-4ED9-BE60-1EC75C9B82C0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B8F84E7F-F166-4B68-ADC7-B71C10AC4486"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7E727945-208C-43CE-A10F-BD5AA6922557"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AFE73CA5-36B1-4A6E-B360-851B9748CE04"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "73868ED4-444F-4C69-962D-F9239CE2EDD9"
+    },
+    {
+      "class": "group",
+      "id": "42BDE698-FE7D-4E90-A2D4-17EBA13B1015"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E6E9EC5F-B3EC-47F1-A65D-6DF33F31D6FE"
+    },
+    {
+      "class": "group",
+      "id": "6C59F34A-5EEB-425A-B752-AD635C4037B5"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 70,
+    "do_objectID": "CBC2922E-7E90-4DA8-94B2-3416977DBB74",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 20,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": false,
+    "numberOfColumns": 4,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 360
+  },
+  "name": "Loading Page Copy",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 640,
+    "name": "Android",
+    "offersLandscapeVariant": 1,
+    "width": 360
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7C6AE0D4-6526-4897-A5AE-352AAB346237",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "B9993E9F-364E-43B4-A4D7-2B17BE16766F",
+    "guides": [
+    ]
+  }
+}

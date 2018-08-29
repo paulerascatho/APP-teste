@@ -1,0 +1,55 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "E0BE24D4-9B01-4843-BCAB-B2C4876DAA91",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A363266F-1180-415A-9250-D1BDC56E61FB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BA057280-3D5B-4D04-B979-83C577B0F07B",
+    "height": 35,
+    "width": 467,
+    "x": 59,
+    "y": 111.0854729539551
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "7B6D40F1-46B8-4445-996A-8A1F81EAD4D0"
+    },
+    {
+      "class": "text",
+      "id": "79C91BA0-6C85-48ED-98F8-918FB8E16972"
+    }
+  ],
+  "name": "Button/Primary/Ghost Normal/Default",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "61D2B6C3-D923-4500-9373-800E5F9741DB",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

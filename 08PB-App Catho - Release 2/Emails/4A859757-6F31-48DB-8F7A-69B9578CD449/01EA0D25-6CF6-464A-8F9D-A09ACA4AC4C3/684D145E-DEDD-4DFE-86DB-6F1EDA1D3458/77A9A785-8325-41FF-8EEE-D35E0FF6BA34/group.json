@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "77A9A785-8325-41FF-8EEE-D35E0FF6BA34",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "76F7240F-50EA-44BD-A2F8-E154B4099AF2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "F9A9E41E-5B67-4555-A039-79D5031342AA",
+    "height": 30,
+    "width": 30,
+    "x": 112.5,
+    "y": 30
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "478E6A69-D17D-4428-9E29-A6731EDE65B9"
+    },
+    {
+      "class": "group",
+      "id": "C54AF85D-91B8-4573-9D46-EC16B7B3C3F8"
+    }
+  ],
+  "name": "003-google-plus-logo-button",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "8BB3AD8F-BE29-4425-BBCC-EF86352981DF",
+      "opacity": 0.27
+    },
+    "do_objectID": "A3927FBA-8F5C-4541-8D33-206176AC6D7B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

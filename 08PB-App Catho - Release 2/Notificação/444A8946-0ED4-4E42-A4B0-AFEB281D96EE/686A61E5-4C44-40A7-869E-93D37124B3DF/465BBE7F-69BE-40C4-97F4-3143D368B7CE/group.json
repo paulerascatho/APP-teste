@@ -1,0 +1,77 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "465BBE7F-69BE-40C4-97F4-3143D368B7CE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5A90498A-FFCE-4FC6-8841-6A6F3FBD92DA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D1D6C9CF-4E8B-49CC-924D-1DEF32DAD309",
+    "height": 18,
+    "width": 18,
+    "x": 253,
+    "y": 21
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "C900CAF5-3933-4884-B08F-87A7DA87B4CD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "91A86DE5-CCE3-4ADC-B06B-4CED14C82D50"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "BD6F73BD-BAEF-49AE-B28F-E6F702C335B8"
+    }
+  ],
+  "name": "ic_battery_18dp",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AE74365B-F157-4F36-8FC1-16D745BE2400",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

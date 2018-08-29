@@ -1,0 +1,167 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "4F04D5CA-0762-4368-A6A4-78B708BB9FE2",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "do_objectID": "772C5ADA-47BC-4317-8AEA-166009AAAA23",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1523304A-37A7-4E56-BE4B-41317D03B60C",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9640A3A3-5ED9-4252-A9E4-FAB76B1F1A05",
+    "height": 787,
+    "width": 360,
+    "x": 2173,
+    "y": -253
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "52CDC33D-30B4-4E77-AE59-46992ED9234C",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "753F0B06-1A0D-416A-9DCB-CCE8AA0EEC23",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "text",
+      "id": "EF1D17EE-BD15-4F9F-AA59-89A37FC13D7F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6707E1D9-46C4-4281-8D52-430C27C1B2A0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F3E81376-5355-488B-9EA4-3CCE5609D41E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5142C765-72BC-4162-865D-7FBA9CFD5AD3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EDCE417B-4C0C-44AF-A629-5F7DA8E13B06"
+    },
+    {
+      "class": "text",
+      "id": "59EEB210-4511-4294-9828-C2F210225D55"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7F17404C-BA89-477D-B38C-10CB3DF982F0"
+    },
+    {
+      "class": "group",
+      "id": "0DCF4227-DD2C-47E2-9886-7F9FE43AC222"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "86F0584B-206E-4505-A44E-E9FD18185286"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 74,
+    "do_objectID": "DF166656-DDEE-49D2-9FCD-7DDB46AB9ABF",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 16,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": false,
+    "numberOfColumns": 4,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 360
+  },
+  "name": "Resumo das qualificações - Editar",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 568,
+    "name": "iPhone SE",
+    "offersLandscapeVariant": 1,
+    "width": 320
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3E1B1633-6E5D-4531-A561-E6DB55CD4C03",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "358332B0-3663-4942-9884-6A9E8CF18992",
+    "guides": [
+    ]
+  }
+}

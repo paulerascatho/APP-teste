@@ -1,0 +1,152 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "D466D31C-58CF-4B9E-A532-5905AE18FE05",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "do_objectID": "DBD5493E-5C4E-41C5-81EF-71699CE8B49F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "81DEA699-D34B-4C4B-A551-4A3C8F4DD2A5",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A1B6091D-7196-41BF-8A68-589B5771AF32",
+    "height": 863,
+    "width": 360,
+    "x": -640,
+    "y": -320
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -29,
+    "do_objectID": "736C5ED7-2F59-4AF4-A304-6499ADC9FC51",
+    "guides": [
+      55,
+      363
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "2F967740-DF97-4CD5-884B-77BCDF90F429"
+    },
+    {
+      "class": "group",
+      "id": "6937E0A4-A4CF-4CAE-A58C-384ED69CEE0E"
+    },
+    {
+      "class": "group",
+      "id": "7CE5DC6D-C2D9-4D1F-A8DC-06ECE7A976B1"
+    },
+    {
+      "class": "text",
+      "id": "9E6FD8E2-E7DF-4F78-969D-FEA5565D9D8A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0F965EC9-795C-4470-B9D4-7C9044E8FCC2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "832D3577-011B-4849-BE76-3D3715CCD0EE"
+    },
+    {
+      "class": "text",
+      "id": "D26E66DA-0A00-4E04-BB97-DCDBA88C34BF"
+    },
+    {
+      "class": "text",
+      "id": "48C7287D-CE8D-4D65-9D27-9C843D2BE19E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "22A3189D-2F63-4F3B-A0C3-125523D175EA"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 70,
+    "do_objectID": "C5624522-6881-4C72-9240-87EB1B7C60C2",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 20,
+    "guttersOutside": true,
+    "horizontalOffset": 29,
+    "isEnabled": false,
+    "numberOfColumns": 4,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 360
+  },
+  "name": "Home Buscar Copy",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 640,
+    "name": "Android",
+    "offersLandscapeVariant": 1,
+    "width": 360
+  },
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "135BE6E4-CD31-4AFD-A979-8FB154727758",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "0FF188BA-98D3-453F-B902-F9EEAB56C4D5",
+    "guides": [
+      -26,
+      439
+    ]
+  }
+}

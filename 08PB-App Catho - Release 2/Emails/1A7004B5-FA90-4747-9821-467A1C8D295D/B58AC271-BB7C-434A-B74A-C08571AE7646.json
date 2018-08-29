@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "B58AC271-BB7C-434A-B74A-C08571AE7646",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "81DB5FA8-586C-4A6E-975D-48023D9D976F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": 0,
+    "destinationArtboardID": "A2759774-7B39-4B09-9552-EB8A0F2513A0",
+    "do_objectID": "E2DBCFC8-E320-4DBB-B932-E0626D293A80"
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8F15393E-4560-4F12-88A9-D1325C24E302",
+    "height": 50,
+    "width": 287.8185921465193,
+    "x": 38,
+    "y": 479
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button/Primary/Normal/Default",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9BE548C4-FBCE-4108-8B44-1EC87224F1B1",
+      "overrideName": "787D4866-9048-451C-A124-2A2694C99821_stringValue",
+      "value": "Busca vagas"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7D1E1481-DE73-484C-BCF1-F3D5BCE27DEE",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "845F0719-5150-4223-9D96-CBCA835CBE4F",
+  "verticalSpacing": 0
+}

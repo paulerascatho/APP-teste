@@ -1,0 +1,178 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "25CBD766-62B8-4F36-8C7F-CCA9F44369A4",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "do_objectID": "431A10A3-76CC-43A3-B913-F2E0E8724D9F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "85534100-6949-45CC-AEB9-8E163A87EC38",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9C9F569A-D73B-4DF6-890A-B6C51083B3A3",
+    "height": 640,
+    "width": 360,
+    "x": 6091,
+    "y": -3845
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "4775157B-70C5-4B47-9CBD-2992849B7099",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "BBB3DC30-F8B5-443B-B2DA-015F64B06835",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "FCDE2582-D2BA-47F9-8552-B662CA998768"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C901557F-0285-44CE-AB71-0B38EA711FC1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "369C2678-2790-4C35-AFB2-E2428D19F88A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4974E32A-9C32-4D3C-BDB6-F525DDF7A3CA"
+    },
+    {
+      "class": "group",
+      "id": "655B66DF-D3B8-47CA-BE6C-5423010970EF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E707CAC7-D6CC-4153-9A57-C22CB6FD281D"
+    },
+    {
+      "class": "group",
+      "id": "B47339A1-F4AF-4C25-A23F-6A75A5257B0C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "03EF80B8-AD9C-4E42-9AAC-AF23A393E551"
+    },
+    {
+      "class": "group",
+      "id": "B71CC99B-D16E-45EA-9AB6-7CDF9078B51B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5C6D0D3C-3D61-4EF8-B146-A8F7E50E5AB0"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 70,
+    "do_objectID": "D57AC3C6-B4C7-46F3-A1CE-0BC102857AEF",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 20,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": false,
+    "numberOfColumns": 4,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 360
+  },
+  "name": "Detalhes Vaga - Descrição",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 640,
+    "name": "Android",
+    "offersLandscapeVariant": 1,
+    "width": 360
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C29E2B84-6155-40E5-9ACD-F96028D48595",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "9F527067-2658-4797-8D3E-731E3D8263C8",
+    "guides": [
+      51
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "F64A5B5E-423D-4135-879D-B759B8620EBE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CD2BD7DD-F63D-497C-A019-3492659CD646",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "53109459-1E03-4043-B0CB-B5747E1565A7",
+    "height": 15.5625,
+    "width": 101.171875,
+    "x": 164.6640625,
+    "y": 3.8515625
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "0D913E28-C4E9-4D0C-85A9-8C34A7F37E11"
+    },
+    {
+      "class": "shapePath",
+      "id": "B06C9491-85DC-451F-A65A-B60A9885A3EA"
+    },
+    {
+      "class": "shapePath",
+      "id": "BBB8EA39-A412-449A-A27D-DE6177FB8986"
+    },
+    {
+      "class": "shapePath",
+      "id": "1A888F4B-563B-4B28-A098-7F51040C74DF"
+    },
+    {
+      "class": "shapePath",
+      "id": "562F4C1F-BA6D-4A12-8D90-A39F0A2B3D94"
+    },
+    {
+      "class": "shapePath",
+      "id": "346B5462-4C64-42BF-A56C-EEB350DEEC24"
+    },
+    {
+      "class": "shapePath",
+      "id": "66B9BD2F-EDBB-4CFF-92B3-41A191433711"
+    },
+    {
+      "class": "shapePath",
+      "id": "06A8466E-7447-4AF5-8381-64FD10543602"
+    },
+    {
+      "class": "shapePath",
+      "id": "67FEB229-1DC0-4957-8597-1C79848C8F3F"
+    },
+    {
+      "class": "shapePath",
+      "id": "C6102AAD-F52B-49D9-9637-E8FDC6095560"
+    },
+    {
+      "class": "shapePath",
+      "id": "D9769BEF-A54B-4185-A30E-F647BEADF18D"
+    },
+    {
+      "class": "shapePath",
+      "id": "374D7F3F-0A49-40E0-AFCA-AAA5114DCE4E"
+    },
+    {
+      "class": "shapePath",
+      "id": "302AC61A-CBBA-4207-A7B1-D2166D591BE5"
+    },
+    {
+      "class": "shapePath",
+      "id": "652F823C-EC3A-4873-AE66-37AE2BD7FCA2"
+    },
+    {
+      "class": "shapePath",
+      "id": "98B14412-25EA-4660-856C-A8D040BFFB81"
+    },
+    {
+      "class": "shapePath",
+      "id": "3BBC6989-8A69-476F-9499-2C3AF92157AC"
+    },
+    {
+      "class": "shapePath",
+      "id": "B541B0F9-A256-4950-8CC6-8927AEBAFB66"
+    },
+    {
+      "class": "shapePath",
+      "id": "63BE5CD3-814D-4C14-920B-60EAF96CFC46"
+    },
+    {
+      "class": "shapePath",
+      "id": "0BEDF281-706E-4051-A0A1-4DED5462D923"
+    },
+    {
+      "class": "shapePath",
+      "id": "2468E892-93AA-47EE-B9AB-B257EBC364D1"
+    },
+    {
+      "class": "shapePath",
+      "id": "A7F27F02-2442-43B3-975E-A1264ED365D5"
+    }
+  ],
+  "name": "Say “Ok Google”",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D7683329-3778-4448-9052-EA8408DFA430",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.6901960784313725,
+          "green": 0.6901960784313725,
+          "red": 0.6901960784313725
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "7E96283A-F5C4-430E-BD7B-3EC72030FA41",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.6901960784,
+          "green": 0.6901960784,
+          "red": 0.6901960784
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "NSCTFontUIUsageAttribute": "CTFontRegularUsage",
+            "size": 16
+          }
+        },
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "allowsDefaultTighteningForTruncation": 0
+        }
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "windingRule": 1
+}

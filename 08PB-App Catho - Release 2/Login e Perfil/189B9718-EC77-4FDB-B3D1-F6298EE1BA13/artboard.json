@@ -1,0 +1,164 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.3215686274509804,
+    "green": 0.1725490196078432,
+    "red": 0.003921568627450982
+  },
+  "booleanOperation": 0,
+  "do_objectID": "189B9718-EC77-4FDB-B3D1-F6298EE1BA13",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "921A498A-05B1-4446-A463-2781BD8C7766",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AE279003-1DA6-445D-B8CE-BA7EFCC715D3",
+    "height": 640,
+    "width": 360,
+    "x": 3503,
+    "y": 858
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "A2B34275-6BEB-4A28-8876-D1EDB3576F72",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "9A3CB2B5-31F0-4C94-AD37-CE920507967C",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "5B764696-F4D1-4039-ACB0-46222039F2A3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A566DF37-FA23-4269-8AE8-3CADCB5A4077"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "BEC59D37-B018-4D52-8679-94FEC7D33EAF"
+    },
+    {
+      "class": "text",
+      "id": "CDF54546-5994-4C59-A7CD-EA17A02238F2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B20CDEE2-4BC3-4EB9-9C21-4423927230D1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D9EDF3BC-1008-4CF9-A635-4FF3C199A639"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EC689F0A-A150-4212-992E-A655FE1FDBFB"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 70,
+    "do_objectID": "0921EECF-7FBB-4C8A-9945-261A6B16A1D3",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 20,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": false,
+    "numberOfColumns": 4,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 360
+  },
+  "name": "Login - Ensinando e explicando 3",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 640,
+    "name": "Android",
+    "offersLandscapeVariant": 1,
+    "width": 360
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B885572C-F0F1-43C9-BD15-B95A9091B724",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "F6758956-50A0-44E0-A741-69AFCE816D71",
+    "guides": [
+    ]
+  }
+}

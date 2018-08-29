@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "2A90EAF3-4CD1-4C72-9D35-8BA6649D90CB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "12F1111C-26F4-4962-9C9D-0DC7881FBAE1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": 0,
+    "destinationArtboardID": "D34DE316-7DD9-4CF7-BC0B-419B6B45B1C8",
+    "do_objectID": "EACC79F2-9CB0-4BE8-B455-90E3A3EAEF25"
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3E1126B1-3DF7-49E1-90F6-1BCC90A83336",
+    "height": 35,
+    "width": 287,
+    "x": 38,
+    "y": 209
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "E9FB49AB-C9DC-4AC3-B7C9-3C3ECD24B080"
+    }
+  ],
+  "name": "Group 3",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FA0AFE36-3257-4B2E-9CC7-1AF780A20626",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

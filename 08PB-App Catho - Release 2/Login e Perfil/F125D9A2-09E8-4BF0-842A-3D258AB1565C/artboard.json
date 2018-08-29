@@ -1,0 +1,183 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "CEE6DD7A-25E2-4B28-A441-C0FA62E3FB0E",
+    "green": 0.5905714742855699,
+    "red": 0.03955571338383834
+  },
+  "booleanOperation": 0,
+  "do_objectID": "F125D9A2-09E8-4BF0-842A-3D258AB1565C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "76783EFE-7372-4EBC-81CC-9909D282CE3E",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EBA6F877-394E-49AA-AA42-85093E1AA352",
+    "height": 640,
+    "width": 360,
+    "x": 2689,
+    "y": 858
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "B68977A9-43B2-4D0B-ADA2-1C2E7DC6BD29",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "0EE3D381-9E6F-407D-A57E-20E349FFCB8A",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "6FCC84ED-6237-4911-8B75-7838C4DCDA92"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9ED1A7BE-730B-4340-A9BA-67495945C83F"
+    },
+    {
+      "class": "group",
+      "id": "3D94F3BB-9535-41E3-87D1-0AC31C1BCFA4"
+    },
+    {
+      "class": "text",
+      "id": "8D4B046E-8BE2-4641-8A4D-27F6D83F190A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "15CE4F5D-692C-43F2-BCF2-BC62B5EC905E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "329D4595-A95C-4DCA-92FF-57ED5343F398"
+    },
+    {
+      "class": "group",
+      "id": "36321258-D972-4A55-9F52-28816FF8D7F5"
+    },
+    {
+      "class": "group",
+      "id": "0B06A256-1CC2-442A-A555-9E38455F1E07"
+    },
+    {
+      "class": "group",
+      "id": "BBFA3F90-6B64-4177-838F-39166E8D2267"
+    },
+    {
+      "class": "group",
+      "id": "5C65DA29-643E-4BEA-902B-C4B89B9281E1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F9B61F95-5D2D-490B-9415-8CD96E22BD50"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 70,
+    "do_objectID": "B50EA329-DBF8-4673-9D5F-C8C7C5F9AEDD",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 20,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": false,
+    "numberOfColumns": 4,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 360
+  },
+  "name": "Login - Ensinando e explicando 1",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 640,
+    "name": "Android",
+    "offersLandscapeVariant": 1,
+    "width": 360
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CE15EBE2-9C6D-42CF-9703-83374ECE1D83",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "18146644-85CC-4A0F-B3BE-D88494F8838C",
+    "guides": [
+      404,
+      433
+    ]
+  }
+}

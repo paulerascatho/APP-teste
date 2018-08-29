@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "A98622EB-9EE7-4E45-9A8E-DE8C1621F7AF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "59E0DFF2-E81B-450C-8457-F85D5BC4974E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8181FBBD-2146-4C78-AE39-579EE9A3AF11",
+    "height": 35,
+    "width": 302.5451546465192,
+    "x": 0.2734375,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button/Primary/Normal/Default",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A406B707-7CCE-4D4C-8CAF-90426839EA0B",
+      "overrideName": "A92C77B7-FB28-49E4-896D-25E728345A73_stringValue",
+      "value": "     Reenviar currículo"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DE72C11C-3F5B-4308-9517-3C7AE9637502",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "82D6229B-4E51-4258-862C-2BDA2C90414C",
+  "verticalSpacing": 0
+}

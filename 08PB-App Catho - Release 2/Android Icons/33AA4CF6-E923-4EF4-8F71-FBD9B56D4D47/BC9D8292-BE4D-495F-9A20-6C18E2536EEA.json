@@ -1,0 +1,61 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": -1,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "BC9D8292-BE4D-495F-9A20-6C18E2536EEA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6ABC5E66-6C75-4E28-978A-9FA2743A92CF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "1F7F6A38-E61C-4374-A3A4-B891B53BD14A",
+    "height": 125,
+    "width": 125,
+    "x": 23,
+    "y": 30
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/76b81df4bca74ddd9571c0d77f9198f0a34803b5.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "OS_Android",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0.7153716216216217,
+      "contrast": 4,
+      "do_objectID": "8FCC340D-7926-4C60-98F8-2BC1302244A4",
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 0
+    },
+    "do_objectID": "0255A636-32DF-4487-BB33-7F914993564F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

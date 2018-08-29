@@ -1,0 +1,111 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 0.87,
+            "blue": 0.5450980392156862,
+            "green": 0.4901960784313725,
+            "red": 0.3764705882352941
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Oxygen-Regular",
+              "size": 14
+            }
+          },
+          "ligature": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 20,
+            "minimumLineHeight": 20
+          }
+        },
+        "length": 1522,
+        "location": 0
+      }
+    ],
+    "string": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed lectus vitae mauris cursus placerat. Nullam dignissim dapibus magna vitae gravida. Donec non volutpat massa, in dapibus tellus. Morbi gravida erat id porta egestas. Duis euismod velit nunc, sed ultricies nunc pellentesque non. Integer nisi leo, auctor ac urna eget, finibus volutpat quam. Sed et ante tortor. Aliquam mollis ante enim, vitae porta mauris vestibulum ut. Vestibulum tempor nec risus id ultrices. Suspendisse eget orci turpis.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed lectus vitae mauris cursus placerat. Nullam dignissim dapibus magna vitae gravida. Donec non volutpat massa, in dapibus tellus. Morbi gravida erat id porta egestas. Duis euismod velit nunc, sed ultricies nunc pellentesque non. Integer nisi leo, auctor ac urna eget, finibus volutpat quam. Sed et ante tortor. Aliquam mollis ante enim, vitae porta mauris vestibulum ut. Vestibulum tempor nec risus id ultrices. Suspendisse eget orci turpis.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed lectus vitae mauris cursus placerat. Nullam dignissim dapibus magna vitae gravida. Donec non volutpat massa, in dapibus tellus. Morbi gravida erat id porta egestas. Duis euismod velit nunc, sed ultricies nunc pellentesque non. Integer nisi leo, auctor ac urna eget, finibus volutpat quam. Sed et ante tortor. Aliquam mollis ante enim, vitae porta mauris vestibulum ut. Vestibulum tempor nec risus id ultrices. Suspendisse eget orci turpis."
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "do_objectID": "3422B6D0-573B-4910-A8C4-9B81E7969D64",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "51CF5017-F75C-4F3D-8FDF-C52856DC2176",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "667D0A38-7397-4540-A175-081C2E802291",
+    "height": 576.20703125,
+    "width": 317,
+    "x": 26.1875,
+    "y": 109
+  },
+  "glyphBounds": "{{-1, 5}, {316, 695}}",
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Lorem ipsum dolor si",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8FCB861B-398B-49B2-8628-E75E9EEEDD62",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "07DB4FC5-E1EF-4BBF-BE9A-20EC3E483EEB",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 0.87,
+          "blue": 0.5450980392156862,
+          "green": 0.4901960784313725,
+          "red": 0.3764705882352941
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "Oxygen-Regular",
+            "size": 14
+          }
+        },
+        "ligature": 0,
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "allowsDefaultTighteningForTruncation": 0,
+          "maximumLineHeight": 20,
+          "minimumLineHeight": 20
+        }
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "textBehaviour": 2
+}

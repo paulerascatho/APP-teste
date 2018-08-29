@@ -1,0 +1,51 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "F19D45AF-6BE4-4313-BBF7-98B66D21D0DD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "80022E20-5174-421E-8339-9A5EDB60FA32",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "03C013EB-7DB9-4E25-AE80-70A8A98D6383",
+    "height": 2,
+    "width": 360,
+    "x": 0,
+    "y": 131
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "5E06C0DF-263F-4EFB-8BDB-1CC541503347"
+    }
+  ],
+  "name": "Mail Box/Message",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F774C5A8-9D28-423F-99D9-893F5D51478C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

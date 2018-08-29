@@ -1,0 +1,52 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": 0,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "511C6DBD-B759-4BDB-9567-4BDEC2C8EA3E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "04E55FDC-7FA3-4B93-8DFF-9C7D74D07578",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "CEA2A25D-92FE-490D-B6C8-E08FFDF219CE",
+    "height": 933.1555555555552,
+    "width": 524.8999999999999,
+    "x": 30.44000000000051,
+    "y": 122
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/58ff142dd43ef15b6811844e68a1ec702d276966.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Home Buscar",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C20A535E-871C-4BD6-A794-F32D8FD982D6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

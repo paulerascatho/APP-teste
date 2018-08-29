@@ -1,0 +1,169 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "D5A708B3-1576-4D7C-92E6-F55ABA8A90C8",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "do_objectID": "EEF2B47C-1D82-4AFA-B37F-2AC703E64DCA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E54377D3-B078-409E-A957-B4F34FCE6527",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8636CD46-844A-4249-94E8-3EE78A52229C",
+    "height": 640,
+    "width": 360,
+    "x": 1049,
+    "y": 858
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "3D946F72-87B0-4289-9582-5FA9CE876A8F",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "C3CC6B2B-9582-4728-B120-A2178171BED4",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "3CE8F850-D6E3-4F87-8B05-11DDCFCE86E0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BAC45F97-0042-4314-8C7F-3B9B3C676C82"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "453AA7A1-A370-47CC-AA98-5774C862FF9F"
+    },
+    {
+      "class": "text",
+      "id": "FCCC1FD3-0147-4339-A97A-E00E82524980"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DF42E8F1-90D2-4CD9-ADE8-E6B1EAB6DBB1"
+    },
+    {
+      "class": "group",
+      "id": "5A9CD9CC-8A8C-4A75-B3A2-D9A039C85EF8"
+    },
+    {
+      "class": "group",
+      "id": "447BF13D-EB6C-4867-8B7B-5DA39E26678F"
+    },
+    {
+      "class": "group",
+      "id": "FF34BF3A-3ACB-43EF-886E-7AC98C8659ED"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 70,
+    "do_objectID": "10AE534E-D12B-478F-8E57-662A846132DA",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 20,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": false,
+    "numberOfColumns": 4,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 360
+  },
+  "name": "Login + Social Login",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 640,
+    "name": "Android",
+    "offersLandscapeVariant": 1,
+    "width": 360
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BFFCD5BE-4D8C-4CBA-B1F3-BC02BD4834D4",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "582EEBD8-C4A8-4B21-9E74-C614A215DEDB",
+    "guides": [
+    ]
+  }
+}

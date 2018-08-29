@@ -1,0 +1,170 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9450980392156862,
+    "do_objectID": "288A6F9F-20D7-4C6B-A812-9AB94ACAF522",
+    "green": 0.9372549019607843,
+    "red": 0.9254901960784314
+  },
+  "booleanOperation": 0,
+  "do_objectID": "9EEB6E91-41E7-4379-881F-7EA56A1BF0A2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "89A59E2F-628D-48C6-972B-D10A56ED16A8",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "654CDE80-9D91-43C4-B613-DAAA73DEEC09",
+    "height": 640,
+    "width": 360,
+    "x": 381,
+    "y": -554
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "5E2E72E8-5F8B-4814-BF71-768BF059DBCB",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "97D8FAE8-F9E5-4CF6-9CFC-D2221EE1C0C8"
+    },
+    {
+      "class": "text",
+      "id": "9A5B7602-EDC4-4310-96E9-D5849B7EF4D4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "63EE78F8-9A14-405F-8E4F-D1667D529284"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0A7950A9-66D9-48F5-809A-E493D3217CCE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "965B6F0D-368B-46C6-81B1-6D77F017080F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "68692C28-0FBE-4C59-9B70-53C9B3753FE3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D0ED5AD2-2C36-45B6-9E5C-5AEEEE36C39B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E25B700A-05B5-4114-B9AB-4AF2FEE77513"
+    },
+    {
+      "class": "group",
+      "id": "5FE4A281-84F5-49CB-AC7A-27A29537E37D"
+    },
+    {
+      "class": "group",
+      "id": "713A58C3-20C9-41BB-9157-F580ED681EC4"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 70,
+    "do_objectID": "72F82C16-6D41-4C6F-88BE-D3BC5ECBAFDD",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 20,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": false,
+    "numberOfColumns": 4,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 360
+  },
+  "name": "Loading Page",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 640,
+    "name": "Android",
+    "offersLandscapeVariant": 1,
+    "width": 360
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "855D5492-0D33-494A-852F-50AFF3EE2EB4",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "202172A2-76DD-412D-B8C5-B2984811A1AF",
+    "guides": [
+    ]
+  }
+}

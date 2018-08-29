@@ -1,0 +1,175 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "FB175BA1-64D6-4E81-8407-49C2154C0293",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "do_objectID": "612693E3-854C-4D56-8086-7C8277BD72DA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4D7F5DD1-6B1D-4627-BB5B-1A5328889000",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E6780FE6-AD07-4896-AA8E-F0A0DC17618A",
+    "height": 640,
+    "width": 360,
+    "x": 1753,
+    "y": -253
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "A5E6A299-E7EC-4A67-818E-24666D453D1B",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "52DC5172-A285-4717-B92A-82CDD61C05C7",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "text",
+      "id": "6DE221A9-B790-413B-93CE-F05A6F394232"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "01F47A65-CAD3-4498-B8FB-D9B854F27871"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6AC2A234-5B95-4CA2-B070-9BE9D2D5E2EE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "ABEE2CED-2C17-4AD8-B897-53C4DE8CAEE3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CC62D2F6-769E-461E-AF01-4BB81FEF7B96"
+    },
+    {
+      "class": "text",
+      "id": "506A72D4-F300-416E-B1EC-F6D5D59D8873"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "31EC7E47-E261-4E09-8206-4DD7BD6E771D"
+    },
+    {
+      "class": "group",
+      "id": "68075458-F1AB-4730-9897-BA97E8FF72BC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "29D31127-0C0D-4DBF-AD68-B919DCE920D2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "177A21D2-7335-41BC-949B-9F736E45C74E"
+    },
+    {
+      "class": "group",
+      "id": "329C0D9C-3651-4C9B-B925-A96A289119C7"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 74,
+    "do_objectID": "825DFE42-8D75-41C6-B0AC-20E54964785D",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 16,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": false,
+    "numberOfColumns": 4,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 360
+  },
+  "name": "Resumo das qualificações - Adicionar Modal",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 568,
+    "name": "iPhone SE",
+    "offersLandscapeVariant": 1,
+    "width": 320
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3FBF7342-4AFA-4FB7-B07B-B03ABE69F91F",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "06B15B4F-AF1D-4F04-8E1F-B9830A9673AB",
+    "guides": [
+    ]
+  }
+}

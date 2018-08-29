@@ -1,0 +1,172 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "A5620E3E-EE92-40C5-AC8C-A16D2D94F7FC",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "do_objectID": "0DEA8DC2-BACE-4142-A978-73AAC180BC25",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F9759462-1C51-4B62-928B-C620B18C20DD",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AB250B3D-D7EE-4E4A-A885-9F438A886E83",
+    "height": 640,
+    "width": 360,
+    "x": 941,
+    "y": -245
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "D5963D0F-423C-420D-A4E3-8E09E1591AD2",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "126679CB-0C67-4F87-B4D5-CDEEE32782AF",
+    "guides": [
+      18
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "20BDAA75-4E20-4110-BB5B-272B3C9910E4"
+    },
+    {
+      "class": "group",
+      "id": "965174E2-506D-48B9-BCE0-04F7B9823A6B"
+    },
+    {
+      "class": "group",
+      "id": "50584484-6391-48D5-B02F-6AC89D413BAB"
+    },
+    {
+      "class": "text",
+      "id": "4733A8D3-B6EA-4EEC-BE85-73045AD61F94"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3CE228DD-B9FA-42AC-AF5D-59AB14E3973F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C4BF3DF5-FE21-4A1E-A412-2022914477D0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2B5ED8CA-533E-491F-8DA2-1F65CF0FACCF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D29F006F-116E-43A5-9B01-A0452ADDDA32"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "43C3CBEC-43E2-4DAF-8FFF-8365E808596D"
+    },
+    {
+      "class": "group",
+      "id": "9F04D785-474C-44ED-B5BD-47CA109A1A61"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 74,
+    "do_objectID": "6D30A9B9-8171-4B71-844F-0B0597BD0FBD",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 16,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": false,
+    "numberOfColumns": 4,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 360
+  },
+  "name": "Crud Tela de exclusão",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 568,
+    "name": "iPhone SE",
+    "offersLandscapeVariant": 1,
+    "width": 320
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5B2C3A6E-3671-496C-96D9-ADCB17B1A420",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "F93AE158-D304-4279-8955-C027A96ED737",
+    "guides": [
+    ]
+  }
+}

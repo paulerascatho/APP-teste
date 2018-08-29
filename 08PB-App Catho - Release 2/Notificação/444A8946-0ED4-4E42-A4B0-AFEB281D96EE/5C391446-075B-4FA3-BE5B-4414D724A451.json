@@ -1,0 +1,74 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "5C391446-075B-4FA3-BE5B-4414D724A451",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D172EC8D-EE48-4C5C-AA2F-777259D5E091",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EF42335E-654A-43C2-A990-744D3F142547",
+    "height": 83,
+    "width": 344,
+    "x": 8,
+    "y": 85
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Android/Notification/Small",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0089647D-5700-47ED-BA40-CC1604CB86D4",
+      "overrideName": "C0E39AEB-D611-4D0E-8668-D101D0F04AF1_symbolID",
+      "value": "B290C2B3-2C7B-489B-B9EB-3AB3895378E3"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "83796D24-A29C-4934-81F9-0C48412A3ECD",
+      "overrideName": "95083B50-CFD6-4D10-BF8D-BE37E35B474A_symbolID",
+      "value": "E6EEB17C-1F5C-4135-B151-9B43801C49EE"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4767D191-671C-460E-AA7D-A557B872C7AB",
+      "overrideName": "0EC35C5D-E4AC-4271-9B57-353260BD0B0E_stringValue",
+      "value": "Temos vagas para você!"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5B1F9B7D-2B2E-4D20-9A9D-A474DABEF5CB",
+      "overrideName": "A1F619D1-C840-4610-B60C-30C66ED9254A_stringValue",
+      "value": "Confira o que a Catho encontrou para o seu perfil. Confira agora!"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2A51BE3F-1718-41E5-9F94-B8D70B46DAA8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "7355AEB4-5028-41D6-8F64-D85258423964",
+  "verticalSpacing": 0
+}

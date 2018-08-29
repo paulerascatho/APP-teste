@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "3F58F0A8-D87A-49C1-9762-CC925BBD765D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F8B529B8-A122-48E1-BD5D-1EE12D07FD4F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "13520613-AB2C-44FA-A1EF-67D863EF0A0C",
+    "height": 35,
+    "width": 75,
+    "x": 240,
+    "y": 126
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button/Primary/Small/Default",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E384EDC6-1D72-4407-A30F-50C567BE0042",
+      "overrideName": "A92C77B7-FB28-49E4-896D-25E728345A73_stringValue",
+      "value": "Aceitar"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9DD1D5E0-0134-4FA3-B81E-0A20F4D368E5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "82D6229B-4E51-4258-862C-2BDA2C90414C",
+  "verticalSpacing": 0
+}

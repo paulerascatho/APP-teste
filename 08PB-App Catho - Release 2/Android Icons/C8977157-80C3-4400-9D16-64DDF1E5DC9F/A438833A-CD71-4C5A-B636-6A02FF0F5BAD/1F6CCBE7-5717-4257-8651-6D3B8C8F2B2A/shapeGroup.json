@@ -1,0 +1,151 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "1F6CCBE7-5717-4257-8651-6D3B8C8F2B2A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B1911183-65CC-42A4-A022-193C23E107CA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "97C3F3F1-41BD-4D28-9EE4-2DB632798C6E",
+    "height": 141.1002973790109,
+    "width": 3059.392242284377,
+    "x": 3.573362004836326,
+    "y": 423.5497925311192
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "2D0344BE-63DF-4728-82BF-1F96402D8A19"
+    },
+    {
+      "class": "rectangle",
+      "id": "F27F3119-EB0E-48AB-9B03-069F76955BB6"
+    }
+  ],
+  "name": "Combined Shape",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "CEDAFF1C-BE10-4788-A914-A0A8D0A35D7C",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5,
+      "type": 0
+    },
+    "do_objectID": "1A5CE91F-E1AF-41AA-B8F9-A9EC6961DE03",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9967315051020408,
+          "green": 0.9967315051020408,
+          "red": 0.9967315051020408
+        },
+        "do_objectID": "CC317692-4394-41D5-B3DC-44047F293ADB",
+        "fillType": 1,
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.5, 0}",
+          "gradientType": 0,
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.1294117647058824,
+                "green": 0.8274509803921568,
+                "red": 0.4941176470588236
+              },
+              "position": 0.09422416907514455
+            },
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.1294117647058824,
+                "green": 0.8274509803921568,
+                "red": 0.4941176470588236
+              },
+              "position": 0.3141934609826589
+            },
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.058082536529497,
+                "green": 0.6902901785714286,
+                "red": 0.08997208640831052
+              },
+              "do_objectID": "96CDC3B4-A80D-4198-AA12-8E75301244FA",
+              "position": 1
+            }
+          ],
+          "to": "{0.5, 0.98292991329479773}"
+        },
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "innerShadows": [
+      {
+        "_class": "innerShadow",
+        "blurRadius": 9,
+        "color": {
+          "_class": "color",
+          "alpha": 0.5,
+          "blue": 0.0520557845768417,
+          "green": 0.4853050595238095,
+          "red": 0.10054615009825
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": -5,
+        "spread": 0
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "windingRule": 1
+}

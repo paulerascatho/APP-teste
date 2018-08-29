@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "99C632BA-2DF0-4A51-9E35-752421B7C6BF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "47EF93D7-B722-4F22-9881-74B110DAEF8F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9644DF3D-0B36-459E-B095-FD9528049F43",
+    "height": 17,
+    "width": 93,
+    "x": 231,
+    "y": 92.84375
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Forms/Label",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5A8BC3A6-187B-43E2-A1D0-4E4C1C0CEF85",
+      "overrideName": "9929AF16-6B79-47E5-BC8B-A85C72980351_symbolID",
+      "value": "AD3EB287-D3C2-4C96-B1AA-9A24DFF0FF84"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4436EC57-EF3C-44E4-B4F9-7F00AB0CD793",
+      "overrideName": "BB335693-1FB1-488A-B2E2-6E2F178AC8F1_stringValue",
+      "value": "Vaga expirada"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A68C4FCE-8937-407E-9263-F11F129FADEB",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "86221661-8EB9-474F-8D41-D0FC1A76E274",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "467BB195-9736-4366-8F90-719FEDA5455E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2B03C1DB-D06B-4553-AF1D-D7309AF20FFE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6CF13A00-9A44-4174-8949-C1B271E27C72",
+    "height": 191,
+    "width": 601,
+    "x": 150,
+    "y": 2794
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "99BA8F21-F0D9-42B1-ACE0-EA1E288B31CA"
+    },
+    {
+      "class": "text",
+      "id": "F4FD7CF5-3513-4634-9F89-4749E190745B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E2788E39-8920-4025-BBEC-FA62B348E323"
+    },
+    {
+      "class": "group",
+      "id": "472D67D6-DCFB-4413-AA56-F64F62F3E47A"
+    }
+  ],
+  "name": "PÓS-RODAPE",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "11B18378-67F5-49B3-A80C-D3EE173C578E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

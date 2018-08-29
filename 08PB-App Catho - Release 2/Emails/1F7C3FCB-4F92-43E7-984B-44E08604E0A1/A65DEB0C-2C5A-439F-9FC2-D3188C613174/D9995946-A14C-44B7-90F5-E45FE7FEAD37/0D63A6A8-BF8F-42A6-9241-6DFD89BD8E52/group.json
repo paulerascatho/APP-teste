@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "0D63A6A8-BF8F-42A6-9241-6DFD89BD8E52",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BA46D2AE-9D76-4A42-BFAA-36D5614379D9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "239C7856-D456-4CA1-AEA1-7AF0991BA39E",
+    "height": 30,
+    "width": 29.26829268292683,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "BD5E5DA2-F2B8-4218-BBB9-95777A53F242"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "627081BE-EE0E-4F86-9C40-695EBC68C5FF"
+    }
+  ],
+  "name": "001-facebook-logo-button",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "AD09736D-2493-49D5-ACD0-A20D6B592E2A",
+      "opacity": 0.2668704710144927
+    },
+    "do_objectID": "1B57EB7A-B80B-4C70-82EF-F120A0F8CFD7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

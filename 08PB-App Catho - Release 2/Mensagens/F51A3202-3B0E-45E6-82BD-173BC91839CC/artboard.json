@@ -1,0 +1,176 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9450980392156862,
+    "green": 0.9372549019607843,
+    "red": 0.9254901960784314
+  },
+  "booleanOperation": 0,
+  "do_objectID": "F51A3202-3B0E-45E6-82BD-173BC91839CC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A03070DC-E72C-4C02-8442-AC8D5E13FC7E",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EAA67C43-6CBC-448F-8579-55159D5A2888",
+    "height": 640,
+    "width": 360,
+    "x": 1082,
+    "y": -307
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "A37752A6-4C0F-4CB1-A8C1-4A4529FFA133",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "3DE8DFE3-6ABF-4500-8F1D-01FDF7AD839C",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "2C298638-0D2F-45C0-BD78-45B5F6A982E0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "83077973-425D-46C7-83EA-EF136A2C8CF2"
+    },
+    {
+      "class": "group",
+      "id": "DC26FA99-009C-48C3-93E6-BD80E74CFA25"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C4052D7F-C28A-4213-8CD6-D1108D7A4EE4"
+    },
+    {
+      "class": "group",
+      "id": "9A4A1AFA-4B21-4214-9097-7AE95E24716B"
+    },
+    {
+      "class": "text",
+      "id": "4CF7A1CB-2169-4691-8FE0-8557BB33E39A"
+    },
+    {
+      "class": "group",
+      "id": "053B6FDE-45D9-4487-BAC9-50754EE55659"
+    },
+    {
+      "class": "text",
+      "id": "6C09E507-2A6B-491F-9A65-10F5C95D1C83"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E1C8C870-FA27-4645-B566-F95648E5E8E4"
+    },
+    {
+      "class": "group",
+      "id": "5B2C2EF7-9410-4E15-8D8C-A4ED833E99FC"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 74,
+    "do_objectID": "0CCBAC3F-188A-416B-A254-831C85225F69",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 16,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": false,
+    "numberOfColumns": 4,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 360
+  },
+  "name": "Mensagens Respostas",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 640,
+    "name": "Android",
+    "offersLandscapeVariant": 1,
+    "width": 360
+  },
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A0FE5634-4167-41FF-ADBC-C65F5DE63CE0",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "6A7AA071-A793-48B5-8AA5-07CA6CF2760F",
+    "guides": [
+    ]
+  }
+}

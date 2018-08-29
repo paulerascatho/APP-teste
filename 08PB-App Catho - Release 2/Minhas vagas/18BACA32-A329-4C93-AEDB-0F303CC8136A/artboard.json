@@ -1,0 +1,173 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "594F6344-8E9A-48ED-84E6-DFFC28AF0BE8",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "do_objectID": "18BACA32-A329-4C93-AEDB-0F303CC8136A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5EE2B290-719F-4756-B5D1-EC9D4F385811",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6B019E7E-3BC5-4567-ABC2-A5CF061D7A8C",
+    "height": 640,
+    "width": 360,
+    "x": -672,
+    "y": -170
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "206A2FF0-0AD1-490B-9038-465355A0E7EC",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "876A01A9-C002-419B-92E5-B45E0B9970A2",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "E26CBDAA-BE33-4B8B-A520-C872CACFE0EF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C546ADA7-551C-488B-8F1E-6E5C800AC40B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4EA889D4-8849-4276-A4A4-5025E1200299"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DCE98828-020E-41C6-AABF-747B27C94A63"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "703A8DE8-F764-4166-9B1C-9EF4396996C0"
+    },
+    {
+      "class": "group",
+      "id": "5458FB59-0709-4127-9360-AC2FB05C7937"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9BB86D0D-1135-4511-8C38-69A86A82F0AA"
+    },
+    {
+      "class": "group",
+      "id": "C479DCF4-5334-4B7B-BBA7-E0EB4854DDFA"
+    },
+    {
+      "class": "group",
+      "id": "F92C6F30-91C9-4960-A7BA-2B7A1E42EA68"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 70,
+    "do_objectID": "ABE92895-413E-412B-A029-1F6C1E7FA6C3",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 20,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": false,
+    "numberOfColumns": 4,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 360
+  },
+  "name": "Detalhes Vaga - Enviar novamente",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 640,
+    "name": "Android",
+    "offersLandscapeVariant": 1,
+    "width": 360
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BDD83ABA-C31A-4DC6-8879-C6AD8AAF5FD7",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "952EF3DA-57B3-4B88-A17B-D0B564FD700A",
+    "guides": [
+    ]
+  }
+}

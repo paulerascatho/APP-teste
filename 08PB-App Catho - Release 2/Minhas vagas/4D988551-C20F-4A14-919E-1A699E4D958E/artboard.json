@@ -1,0 +1,185 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9450980392156862,
+    "do_objectID": "26FB1047-E02C-400A-A8E6-0062D5C60238",
+    "green": 0.9372549019607843,
+    "red": 0.9254901960784314
+  },
+  "booleanOperation": 0,
+  "do_objectID": "4D988551-C20F-4A14-919E-1A699E4D958E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "69B58DE3-B94D-4866-A7E7-548F55773A86",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7534DE4B-4EA0-446A-958D-2FE7235A7BBB",
+    "height": 640,
+    "width": 360,
+    "x": 1840,
+    "y": -170
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "EEF0E55A-9140-419B-B036-C3C1067ECF75",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "3FEEC3DA-E496-4D83-B718-FCE97E9F4642",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "B45B68F6-963C-408B-9D8E-E98A0FF833F1"
+    },
+    {
+      "class": "group",
+      "id": "36811AFE-4E5D-4010-99A3-A0983F218ED2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "28252A13-E13B-405E-859B-6A354580A640"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "82D4BAEA-439F-40EA-B6DA-F55BF66D248F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F50043E5-69EE-4A09-8DE8-D9E354A2E35C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B3478FFC-3265-4028-81A5-49A5F1B0B808"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4F8B0FD3-C9A1-42B2-9C30-5D2A54476A19"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FC2A72F9-7A63-4D13-AAA6-603656306289"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E3C634A2-D411-4AD2-B482-9EB0FBD9A395"
+    },
+    {
+      "class": "bitmap",
+      "id": "95F31370-B451-4B8C-AA7A-A8C9F07035D5"
+    },
+    {
+      "class": "group",
+      "id": "8194031E-2DA4-41BC-B979-00F244A5B6C3"
+    },
+    {
+      "class": "text",
+      "id": "49EE81AE-1FB9-41A2-B0AC-1C9F80FB6330"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 70,
+    "do_objectID": "64165BB4-076C-4D59-B08B-0DB3D0DA22E1",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 20,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": false,
+    "numberOfColumns": 4,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 360
+  },
+  "name": "Minhas Vagas - Share Android",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 640,
+    "name": "Android",
+    "offersLandscapeVariant": 1,
+    "width": 360
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FD104EE4-756C-44B9-A07D-2F5F77C16CCE",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "0D5A34AC-A0D2-490F-95F7-F88EF994991C",
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "AAE9A574-07F0-4FFC-A5FE-FF0AB60A8E24",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "695A55E6-AE4A-420D-9419-56502E1105EC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E8611C5F-94AF-4560-91F0-28E49EABA76E",
+    "height": 35,
+    "width": 105,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "358A8D8B-2D2F-4D8B-B78E-FE3924B5EEF8"
+    },
+    {
+      "class": "group",
+      "id": "702A0F1C-0097-489B-94CB-E46BE10FF7CB"
+    },
+    {
+      "class": "group",
+      "id": "DEB9DFF7-F628-457C-89FC-03D318D0BD5D"
+    },
+    {
+      "class": "group",
+      "id": "43286E21-FCFD-48E9-BB82-DCBA95DCA959"
+    },
+    {
+      "class": "group",
+      "id": "8E099A3E-2134-473F-A0BB-63AC464EF0E5"
+    }
+  ],
+  "name": "Material/Android/Status bar light",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A034D04F-1AED-45B5-928D-82A9E2BC1813",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

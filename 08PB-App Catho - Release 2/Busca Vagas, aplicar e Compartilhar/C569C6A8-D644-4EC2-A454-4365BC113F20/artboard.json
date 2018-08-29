@@ -1,0 +1,137 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "9BF9C99A-209C-44BA-A566-4947D65DCD08",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "do_objectID": "C569C6A8-D644-4EC2-A454-4365BC113F20",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "84ED1A5B-5BFF-4619-92CD-092F02D85D77",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "025DB3E3-9A86-4995-82C6-55B1399DB2AD",
+    "height": 640,
+    "width": 360,
+    "x": -2645,
+    "y": -323
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "8CF795FE-CC27-4C3D-9C0C-122AC2C25F13",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "2CCBF672-564E-4E63-8038-1C59B29EF6E5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F6E99A86-21AA-4855-A5F3-1747FFDDB8DC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "462AAC2B-CE99-44A9-A2AE-19DAD7A09D4F"
+    },
+    {
+      "class": "text",
+      "id": "1605871A-D3A1-403A-9F8A-29E6CBA3D2F7"
+    },
+    {
+      "class": "group",
+      "id": "2EE185B6-E114-4FBA-92ED-6FCF0D6B2206"
+    },
+    {
+      "class": "MSImmutableHotspotLayer",
+      "id": "D19A3BDF-E745-47DE-AC0B-F9EF6B185391"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 70,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 20,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": false,
+    "numberOfColumns": 4,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 360
+  },
+  "name": "Selecionar Estado (cidade)",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 640,
+    "name": "Android",
+    "offersLandscapeVariant": 1,
+    "width": 360
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2D876FB4-820C-4608-B033-59F7E09981AD",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "6DA3EDDA-0AD3-4D0E-9AAD-2195612AA695",
+    "guides": [
+      -26,
+      80
+    ]
+  }
+}

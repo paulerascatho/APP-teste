@@ -1,0 +1,55 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "EE88D00C-AFC6-488E-A0B3-EE547DBF2603",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5ACD9C3C-09E3-4C80-935A-3DA2B802E6CC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "43183E93-EFAC-4ED8-AC50-560A4653350A",
+    "height": 20,
+    "width": 14,
+    "x": 290,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "0E945564-83F7-472A-B99E-B6AB7772EA42"
+    },
+    {
+      "class": "group",
+      "id": "E6AA1952-AF1A-426F-855E-A1C5DFDCD9BE"
+    }
+  ],
+  "name": "mic_icon",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BA990F21-9C24-4935-95CD-54CDBA04A23D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

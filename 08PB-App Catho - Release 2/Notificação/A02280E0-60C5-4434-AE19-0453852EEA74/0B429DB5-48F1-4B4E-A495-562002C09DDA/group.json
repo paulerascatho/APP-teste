@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "0B429DB5-48F1-4B4E-A495-562002C09DDA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6D770D1B-85EB-41CC-A858-63887AAB7066",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CD62163A-5D45-4491-9A20-BACD8E04696C",
+    "height": 8,
+    "width": 28,
+    "x": 166,
+    "y": 498
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "9DE7CB79-00EB-4CB7-96E0-594E8C0ADAC8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0CD8D303-5E71-4AEA-9BE9-C504712BFF68"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FE9316A7-1AF6-403C-940C-06DA754A6F05"
+    }
+  ],
+  "name": "slide_dot",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8AC0A1CC-7E68-4D2A-8EA5-C580673571B8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

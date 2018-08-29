@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "447BF13D-EB6C-4867-8B7B-5DA39E26678F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3C78FBB7-5A03-4C3D-916A-BF983CACE397",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "88289771-9FAC-4070-9FEA-2354B9FC97FC",
+    "height": 48,
+    "width": 293,
+    "x": 33,
+    "y": 389
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "B3E579A5-4C2E-46B4-9195-B6C8D3F076E5"
+    },
+    {
+      "class": "group",
+      "id": "959DBA7F-43B8-4FB7-A52C-477D95D4709B"
+    },
+    {
+      "class": "group",
+      "id": "7D6D82D5-B24E-4B48-8DC1-F60DCC3EF83F"
+    }
+  ],
+  "name": "Social/Login",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0BAB3E7C-F703-476F-B092-8FC0684390A1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

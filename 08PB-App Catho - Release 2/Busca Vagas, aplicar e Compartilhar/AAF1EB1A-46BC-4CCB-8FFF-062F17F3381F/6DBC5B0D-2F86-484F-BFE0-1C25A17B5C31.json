@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "6DBC5B0D-2F86-484F-BFE0-1C25A17B5C31",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4D9CBF7D-72A0-45B1-8125-065978E6C57C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "164132E1-C456-4FF8-A5EF-76C47ECB5B4B",
+    "height": 35,
+    "width": 205.6144578313253,
+    "x": 134.3855421686749,
+    "y": 595
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button/Primary/Normal/Default",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8997AE11-6B20-43B4-AF6E-8605DBEF3498",
+      "overrideName": "A92C77B7-FB28-49E4-896D-25E728345A73_stringValue",
+      "value": "      enviar curriculo"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F680F41A-DAC4-4FF2-B7BE-B4B602F55F1B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "82D6229B-4E51-4258-862C-2BDA2C90414C",
+  "verticalSpacing": 0
+}

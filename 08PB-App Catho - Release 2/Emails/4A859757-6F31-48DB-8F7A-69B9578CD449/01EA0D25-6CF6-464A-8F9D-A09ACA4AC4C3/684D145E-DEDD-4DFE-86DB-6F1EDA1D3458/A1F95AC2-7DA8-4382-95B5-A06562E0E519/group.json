@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "A1F95AC2-7DA8-4382-95B5-A06562E0E519",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FFFC058E-EEF4-4552-8920-AE5ADAD42F32",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "D5BAE6D1-1A6E-46F4-9583-635520714238",
+    "height": 30,
+    "width": 30,
+    "x": 75,
+    "y": 30
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "07B95A26-F040-4E7B-B1C9-3D3BFCEBF8A9"
+    },
+    {
+      "class": "group",
+      "id": "7D9BAFF2-F555-4153-A421-BC0A91D74AC3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CB7CA3C4-D03D-4E02-BDB8-2360A9FC5278"
+    }
+  ],
+  "name": "004-linkedin-logo-button",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "1CDEF74F-4A75-4E31-9ACD-7E00A7729ECF",
+      "opacity": 0.27
+    },
+    "do_objectID": "671A362D-3FC9-475A-91B3-4FB7C0B4F441",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

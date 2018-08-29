@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "969286A9-52FE-4AEA-8C79-3782C09B94F6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D1CB8AFC-F2A0-412E-9822-001EF5248B29",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FC1CEE82-0927-4F07-9D4D-1E95BE16A92E",
+    "height": 60.00000000000005,
+    "width": 287.8185921465193,
+    "x": 37,
+    "y": 121
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Forms/Input/Default",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BDCB44F5-729E-4E5E-A4B3-4E2D42EAF731",
+      "overrideName": "6BB0F210-3AE8-4EAD-B738-EA17BBB9E5A0_stringValue",
+      "value": "Cargo ou Palavra Chave"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "01749C8A-511D-4247-980F-07ED05699852",
+      "overrideName": "4789A9C7-7DDE-4D49-A238-54FA80BB032C_stringValue",
+      "value": "O que você procura?"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9C9BB370-EDCE-44C8-95C2-FA10085D94CD",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B7C91AA8-340B-4A93-871F-8E39190440AB",
+  "verticalSpacing": 0
+}

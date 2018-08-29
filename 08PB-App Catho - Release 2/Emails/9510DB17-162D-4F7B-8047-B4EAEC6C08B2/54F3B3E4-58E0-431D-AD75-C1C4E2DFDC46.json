@@ -1,0 +1,74 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "54F3B3E4-58E0-431D-AD75-C1C4E2DFDC46",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C96346EA-9B4B-4DCA-88DF-48DBF92C4F44",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": 0,
+    "destinationArtboardID": "3AC60704-4C5A-4D4D-9781-2ABACB98C56C",
+    "do_objectID": "334FE29B-A8A0-477A-B77B-13BE9E3091F7"
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A29FD8C8-F8B3-4575-9136-A94EA7F1ABBD",
+    "height": 60.00000000000005,
+    "width": 287.8185921465193,
+    "x": 37,
+    "y": 171
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Forms/Input/Default",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2B8A31B0-4A0C-4F3E-9833-DAD6CA2645D8",
+      "overrideName": "7FB40AD0-9021-4027-8840-F5EE693BBBD9_stringValue",
+      "value": "Bruno Biagioni"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BDCB44F5-729E-4E5E-A4B3-4E2D42EAF731",
+      "overrideName": "6BB0F210-3AE8-4EAD-B738-EA17BBB9E5A0_stringValue",
+      "value": "Cargo ou Palavra Chave"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "103A699D-82DB-43B8-BA03-B4C14AC3CECE",
+      "overrideName": "4789A9C7-7DDE-4D49-A238-54FA80BB032C_stringValue",
+      "value": "O que você procura?"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1A9BCF0C-18CB-40FC-8584-6DBD0ACF31B8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B7C91AA8-340B-4A93-871F-8E39190440AB",
+  "verticalSpacing": 0
+}

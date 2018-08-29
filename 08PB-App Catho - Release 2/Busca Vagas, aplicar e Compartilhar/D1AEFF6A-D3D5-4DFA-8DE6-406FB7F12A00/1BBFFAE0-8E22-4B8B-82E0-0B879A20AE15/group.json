@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "1BBFFAE0-8E22-4B8B-82E0-0B879A20AE15",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BC3C2B4B-0761-470B-8892-F30DF6F6B6D5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "538120D1-AE59-46B0-8362-1958B9614956",
+    "height": 24,
+    "width": 118,
+    "x": 242,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "1080C7FB-1140-47ED-8B0A-A6685A2E78F1"
+    },
+    {
+      "class": "group",
+      "id": "04ED689F-AA66-45FF-83CD-E42B544FB93A"
+    },
+    {
+      "class": "group",
+      "id": "DFD6DF70-9129-450A-A84D-0EA9B4B632AB"
+    },
+    {
+      "class": "group",
+      "id": "6A353B30-AA60-43BF-B793-A1B3FE5D5DBF"
+    },
+    {
+      "class": "group",
+      "id": "2CC6D465-6EF1-4439-8AFD-E0468C88D3E9"
+    }
+  ],
+  "name": "Android/Icons/Status bar dark",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2A080A90-06E3-45D7-A434-9EC7A930A39F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

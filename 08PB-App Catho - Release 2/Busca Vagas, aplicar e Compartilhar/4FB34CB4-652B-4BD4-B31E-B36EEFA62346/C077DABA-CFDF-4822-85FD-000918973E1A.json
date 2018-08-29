@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "C077DABA-CFDF-4822-85FD-000918973E1A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DB2099A8-2F8E-4D7A-B2B1-D4DEE1E0CCE8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "038F73DD-806F-43AB-AC6C-007F1DAA7839",
+    "height": 48,
+    "width": 350,
+    "x": 5,
+    "y": 532
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Alerts/Sucess Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "589D7CF6-5114-435C-8D3E-60835E2708BD",
+      "overrideName": "B5CA4F1A-537D-4625-8C1C-6380E415CADC_stringValue",
+      "value": "Busca salva com sucesso!"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E5932246-BE61-4A82-B373-1F6CD695DB91",
+      "overrideName": "2E1993FF-D098-4FB6-807D-8032FDEAD3E3_stringValue",
+      "value": " "
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F5A918EC-B687-4427-8D60-0E430F1CF06B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "10631EDB-306A-4C3C-A118-28C3D561D5A2",
+  "verticalSpacing": 0
+}

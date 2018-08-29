@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "34CD568F-0661-4B74-97FB-0DB50F7EF118",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5751F1C0-E23B-4D3F-87A9-A62C62CA788E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "ACAD550E-1199-49AC-8959-DD8001294ED1",
+    "height": 11,
+    "width": 9,
+    "x": 3,
+    "y": 3
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "7526DB21-2AE8-4CA8-B0BA-0003FDA7BEB5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F46CBB0F-D1DB-4090-AA39-A4729CEF6FF8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "69181F70-82CB-4E19-BA35-EDDAC36AD16D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FA36576E-1C76-4DC2-800F-5668532C1005"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "94C676F7-426E-4617-A7B4-32C1592FDB8A"
+    }
+  ],
+  "name": "Icons/Action/account_circle",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "886536BB-DD96-4C44-9A7B-61A59C5C522B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
