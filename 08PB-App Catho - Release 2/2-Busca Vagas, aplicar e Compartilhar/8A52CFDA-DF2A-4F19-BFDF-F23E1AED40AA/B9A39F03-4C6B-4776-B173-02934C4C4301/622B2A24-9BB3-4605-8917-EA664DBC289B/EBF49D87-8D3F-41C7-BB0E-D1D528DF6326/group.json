@@ -15,8 +15,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 35,
-    "width": 322,
-    "x": 18,
+    "width": 347,
+    "x": 7,
     "y": 25
   },
   "hasClickThrough": false,
@@ -25,27 +25,27 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "17788FB0-781B-4430-A1E5-BDA0A7F545E1"
+      "class": "group",
+      "id": "28BA6775-50A7-44E4-AD8C-E79EA386DAC9"
+    },
+    {
+      "class": "group",
+      "id": "6C47652C-6CF8-4A4C-A471-30C71E9EE429"
     },
     {
       "class": "symbolInstance",
-      "id": "4C10E332-7287-4479-B6A4-E6E83499CFE8"
+      "id": "3951315E-4B37-4534-8087-A1DA688A4F4E"
     },
     {
       "class": "symbolInstance",
-      "id": "8890FA2F-E290-44CC-8491-75704D2AC15A"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "43B11619-6C85-47DA-9F80-6C4B626DF1CD"
+      "id": "65D55261-2995-4ACA-9131-B95C6C9DA40C"
     }
   ],
-  "name": "Group 7",
-  "nameIsFixed": false,
+  "name": "btn-rodape",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
