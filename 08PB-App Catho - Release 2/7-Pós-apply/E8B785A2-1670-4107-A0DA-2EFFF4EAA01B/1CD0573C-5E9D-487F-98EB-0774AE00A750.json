@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "1CD0573C-5E9D-487F-98EB-0774AE00A750",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D30848E0-7D9C-4C8F-97D6-E49F628EC566",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2C433B0C-A5D5-442D-9FA8-1A19E748EB45",
+    "height": 35,
+    "width": 159,
+    "x": 151,
+    "y": 595
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button/Primary/Normal/Default",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D6FBEE3A-1F36-4829-8812-844F62AA0A41",
+      "overrideName": "146DC872-EFF2-4BB8-A01B-5FD99A2C4FB5_stringValue",
+      "value": "      CV enviado"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "42759926-660C-4124-BA85-C37311EDC736",
+      "opacity": 0.5
+    },
+    "do_objectID": "33CFBE48-6D23-4444-911D-F6B1EC6DFD85",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C9E1E68B-4277-4D64-B76A-F46B3139132A",
+  "verticalSpacing": 0
+}

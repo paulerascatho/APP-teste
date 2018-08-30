@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "4FDDCFDE-E169-44EF-893A-9E768E4FAE7F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9DD3E461-F321-4237-AA99-11D63DED82EF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": 0,
+    "destinationArtboardID": "B71EE772-CAC3-43F8-9690-7A5A2A30B6B7",
+    "do_objectID": "AA27F30B-A350-4440-B19E-C614B05CC09B"
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "17790ED6-FC78-494E-A374-D90FF937FB59",
+    "height": 33,
+    "width": 33,
+    "x": 16.59878927831551,
+    "y": 35.30175781249994
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Icons/Hardware/keyboard_arrow_left",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6B4E2307-3804-492B-B06A-C92E1CAD9924",
+      "overrideName": "E78AD601-02AC-47F1-9175-89DA84AA688C_symbolID",
+      "value": "FA5328AC-26BB-4665-AF82-F18DD9B7AFED"
+    }
+  ],
+  "resizingConstraint": 9,
+  "resizingType": 0,
+  "rotation": -1,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3A89CC0A-0438-4C9B-ADAC-B29688111AA6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C11E86C0-1588-40D1-A5CC-394ABE81BFF8",
+  "verticalSpacing": 0
+}

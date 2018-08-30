@@ -1,0 +1,162 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "22609FD9-F7AD-4150-BC23-02E126F973AA",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "do_objectID": "26A71F28-7EFE-4525-845E-5E97579DF8A5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BE1A01CF-ABEF-4EC3-89CB-98A667B9E96C",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1E589DB5-D6C3-462E-9D3E-A931875BF6A3",
+    "height": 640,
+    "width": 360,
+    "x": 4044,
+    "y": -321
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "ADB22D01-2CB3-45A9-A437-18428FDA4B8F",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "2B17C78F-625D-4E98-B0AF-AB0C1719DA02",
+    "guides": [
+      28
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "B8258B1C-CD81-4381-A53E-2AB7273AFC07"
+    },
+    {
+      "class": "text",
+      "id": "648B01AF-9761-4EF1-A798-FAF2B5720B00"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "497557BD-5A8D-4555-882F-A8558DC48656"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3D9C3B7D-612B-4688-8098-0462CB8EADA7"
+    },
+    {
+      "class": "group",
+      "id": "8394DD96-3FBE-4925-B09D-57C5A2EEC1AE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D1D522B8-D414-45C1-A5BE-6B09ACB92CD4"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 70,
+    "do_objectID": "FD28EF00-89E9-4E92-BBA1-4E87F29A8040",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 20,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": false,
+    "numberOfColumns": 4,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 360
+  },
+  "name": "Enviar Currículo - Simples",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 640,
+    "name": "Android",
+    "offersLandscapeVariant": 1,
+    "width": 360
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8406910C-732D-4377-A6A8-B1506CD0A73B",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "88F6AAC3-4852-494D-91AA-79A222D6E180",
+    "guides": [
+    ]
+  }
+}

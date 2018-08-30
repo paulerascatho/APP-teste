@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "433948A1-541E-4563-AD19-E59DA5947DFC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1F54CF0A-B75E-4087-A5A5-91749109E4BC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DA2C5C03-DC3E-47E8-B84D-143E765DC602",
+    "height": 71,
+    "width": 360,
+    "x": 0,
+    "y": 570
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "77295EAE-FF16-4F79-9FE3-BCD444E8219F"
+    },
+    {
+      "class": "group",
+      "id": "2B1B8ECD-D10C-4AB4-B299-C0E533744FE7"
+    },
+    {
+      "class": "group",
+      "id": "F5F89F66-04B1-4785-B24F-4F95B8154566"
+    }
+  ],
+  "name": "rodape",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FF867377-4942-41A1-9204-3852BBE7F18C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

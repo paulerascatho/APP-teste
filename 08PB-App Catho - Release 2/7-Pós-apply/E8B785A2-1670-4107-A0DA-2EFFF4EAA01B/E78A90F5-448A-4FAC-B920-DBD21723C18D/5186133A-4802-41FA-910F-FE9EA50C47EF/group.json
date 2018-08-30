@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "5186133A-4802-41FA-910F-FE9EA50C47EF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "84B7DABC-3465-48A9-A23E-874818CB8FEF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "51689FA3-7F59-4ADB-9FAA-1BF6BA5DFA6F",
+    "height": 35,
+    "width": 347,
+    "x": 7,
+    "y": 25
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "90D0979B-B481-43B5-889F-E46C549749B5"
+    },
+    {
+      "class": "group",
+      "id": "B3FB9CE3-4853-4E2B-8904-B18C6660F228"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CCC0373A-8EEC-4CD2-82AF-F0F9632F0BDF"
+    }
+  ],
+  "name": "btn-rodape",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2513A8A5-E122-4257-9BC1-1401B38B2644",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

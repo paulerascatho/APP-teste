@@ -1,0 +1,55 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "B7632E3F-3527-4F70-AC1E-3BBB3A855F95",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9870B6E6-4EFF-4CE4-801E-782838D2DFCE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6DC34636-EB70-465D-B543-3A052EB6A68C",
+    "height": 83,
+    "width": 319,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "791E0F5A-AC14-4788-A5AF-5EAF9A7425AD"
+    },
+    {
+      "class": "group",
+      "id": "ABF225CC-12D9-4F4E-8105-C2534D09FFD2"
+    }
+  ],
+  "name": "Cards/Vaga Busca",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4847B83C-C9FE-4790-BB09-558240BD71C7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

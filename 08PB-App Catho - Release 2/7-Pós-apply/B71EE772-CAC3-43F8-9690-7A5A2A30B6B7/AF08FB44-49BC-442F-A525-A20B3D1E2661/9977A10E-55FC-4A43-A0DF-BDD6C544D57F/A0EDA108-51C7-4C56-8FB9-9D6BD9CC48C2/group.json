@@ -1,0 +1,55 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "A0EDA108-51C7-4C56-8FB9-9D6BD9CC48C2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "53F93294-3A5C-4281-A2E7-A07C4C515738",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "17F5C950-895C-4C68-BC8C-94F0B5939AE7",
+    "height": 35,
+    "width": 90,
+    "x": 44,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "99ABAF11-D1AA-4D68-AA4E-E1AED45572D0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7BF9E47D-1157-4A55-9D98-B067DFFA3EBA"
+    }
+  ],
+  "name": "saklvar",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4AEE39B8-145D-40CB-85A7-774BA0B724B5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

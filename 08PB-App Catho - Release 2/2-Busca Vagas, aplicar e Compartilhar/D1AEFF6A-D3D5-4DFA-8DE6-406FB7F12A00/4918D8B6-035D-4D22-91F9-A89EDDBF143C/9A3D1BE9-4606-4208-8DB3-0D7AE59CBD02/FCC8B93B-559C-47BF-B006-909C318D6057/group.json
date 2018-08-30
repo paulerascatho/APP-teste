@@ -1,0 +1,55 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "FCC8B93B-559C-47BF-B006-909C318D6057",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "15F6395D-FB14-4254-9EF7-435A6F48C826",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A2DDD902-D4AD-4BC8-A2E8-D32553BC2D51",
+    "height": 35,
+    "width": 159,
+    "x": 144,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "74F63D6D-9400-4000-A946-24E53F1FADCB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C7370657-58E0-4CF1-ABD4-873171357F2F"
+    }
+  ],
+  "name": "enviar",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B6D5ACB7-FC1A-46AE-8B5C-29AC93E3149A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
